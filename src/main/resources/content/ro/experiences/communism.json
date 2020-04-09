@@ -1,0 +1,82 @@
+{
+  "metaData": {
+    "title": "Turul comunismului în Rosia Montană",
+    "text": "Epoca de Aur sau perioada comnuistă a avut un impact major asupra zonei noastre. Marile exploatări miniere de suprafață pentru extragerea cuprului, a aurului și argintului sunt vizibile și o mică parte mai funcționează și azi. Au rămas utilajele ruginite, construcții industriale abandonate, deșeurile miniere și iazuri de decantare cu un grad ridicat de poluare.<br><br>",
+    "img": "assets/img/attractions/article/copperPit/img/rosiaPoieniTourists2.jpg"
+  },
+  "headline": {
+    "title": "Turul comunismului în Rosia Montană",
+    "img": "assets/img/attractions/article/copperPit/img/rosiaPoieniTourists2.jpg"
+  },
+  "sections": [
+    {
+      "type": "article",
+      "text": "<i class='far fa-images'></i> Turul comunismului",
+      "id": "cetate"
+    },
+    {
+      "article"
+            {
+              "text": "Epoca de Aur sau perioada comnuistă a avut un impact major asupra zonei noastre. Marile exploatări miniere de suprafață pentru extragerea cuprului, a aurului și argintului sunt vizibile și o mică parte mai funcționează și azi. Au rămas utilajele ruginite, construcții industriale abandonate, deșeurile miniere și iazuri de decantare cu un grad ridicat de poluare."
+            },
+            {
+              "title": "Cariera de aur Cetate",
+              "text": "Exploatarea de suprafață 'Cetate' se află chiar în apropierea satului, aici se pot vedea urmele industriei de prelucrare a aurului și argintului în perioada comunismului. Denumirea de 'Cetate' vine de la faptul că aici se afla un întreg complex de galerii construite încă de acum 2000 de ani pentru a se extrage aurul."
+            }
+            }
+          ]
+        }
+      },
+    {
+      "images": [
+        {
+          "text": "Cariera Cetate",
+          "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/cariera.jpg",
+          "img": "assets/img/attractions/article/carnic/cetatePit/img/cariera.jpg"
+        },
+        {
+          "text": "Galeriile din Cariera Cetate",
+          "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/galerii.jpg",
+          "img": "assets/img/attractions/article/carnic/cetatePit/img/galerii.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Geamăna și Roșia Poieni",
+      "text": "Cariera de Cupru Roșia Poieni este una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă, dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna formand un iaz de decantare vizibil și din satelit. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție (1h cu mașina) - "
+    },
+    {
+      "link": {
+        "text": "vezi harta",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/Geam%C4%83na/@46.3430812,23.1073464,12.49z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e0?hl=ro"
+      }
+      ],
+    }
+  }
+  ]
+}     }, {"images": [
+{
+"text": "<b>Cariera de Cupru Roșia Poieni</b> are 24 de trepte de exploatare, fiecare de 15m înălțime.",
+"thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+"img": "assets/img/attractions/article/copperPit/img/1.jpg"
+},
+{
+"text": "Foste gospoddării din satul Geamăna",
+"thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/2.jpg",
+"img": "assets/img/attractions/article/lakes/geamana/img/2.jpg"
+},
+{
+"text": "Turla bisericii din fostul sat Geamăna, acoperit acum de iazul de decantare.",
+"thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+"img": "assets/img/attractions/article/lakes/geamana/img/1.jpg"
+}
+]
+},
+{
+"type": "socialButtons"
+}
+]
+}
+]
+}

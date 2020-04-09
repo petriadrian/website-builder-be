@@ -1,0 +1,120 @@
+{
+  "metaData": {
+    "title": "Turul celor 100 de case părăsite | Înscrieri",
+    "text": "Roșia Montană este cea mai veche localitate minieră atestată din România, locul în care istoria țării a ramas gravată în minele din stânci și zugrăveala caselor cândva nobile și pline de viață dar acum în mare parte părăsite și vândute la compania canadină ce își dorea să deschidă aici una din cele mai mari exploatări pe cianuri din Europa. Ce s-a ales cu ele și care e povestea lor? Vă așteptăm de centenar într-un tur al caselor părăsite din Roșia Montană.",
+    "img": "/assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
+  },
+  "sections": [
+    {
+"type": "article",
+        "text": "Turul celor 100 de case părăsite",
+        "videoSource": "/assets/img/events/abandonedHouses.mp4",
+        "img": "",
+        "buttons": [
+          {
+            "text": "Info",
+            "link": "ro/events/abandonedHouses#info",
+            "textOnMouseOver": "Info"
+          },
+          {
+            "text": "Rezervări și prețuri",
+            "link": "ro/events/abandonedHouses#bookings",
+            "textOnMouseOver": "Rezervări și prețuri"
+          }
+        ]
+      }
+    },
+    {
+"type": "article",
+          "id": "info",
+          "title": "<i class='far fa-star'></i> Info"
+
+            "text": "Roșia Montană este cea mai veche localitate minieră atestată din România, locul în care istoria țării a ramas gravată în minele din stânci și zugrăveala caselor cândva nobile și pline de viață dar acum în mare parte părăsite și vândute la compania canadină ce își dorea să deschidă aici una din cele mai mari exploatări pe cianuri din Europa. <br>Ce s-a ales cu ele și care e povestea lor? <br>Vă așteptăm de centenar într-un tur al celor 100 de case părăsite din Roșia Montană."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
+          "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita2-th.jpg",
+          "img": "assets/img/attractions/centrl-istoric-historic-center-parasita2.jpg"
+        },
+        {
+          "text": "Vom vizita și vom afla povestea caselor părăsite din Roșia Montană.",
+          "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
+          "img": "assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
+        },
+        {
+          "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
+          "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+          "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
+        }
+      ]
+    },
+    {
+"type": "article",
+          "id": "bookings",
+          "title": "<i class='far fa-calendar-check'></i> Rezervări"
+
+            "text": "Pachetul se desfășoară în perioada <b>29.11 - 02.12.2018</b>, la prețul de <b>470lei/pers</b> și include:"
+          },
+          {
+            "text": "<br><b>- 3 nopți de cazare</b> (joi, vineri, sâmbătă) în camere private (cu băi proprii sau o baie la 2 camere) - specificați în căsuța 'Alte detalii' ce tipuri de camere doriți."
+          },
+          {
+            "text": "<br><b>- mâncare</b> - 3 mic dejunuri (vineri, sâmbătă și duminică) și 2 prânzuri (vineri și sâmbătă) - specificați în căsuța 'Alte detalii' dacă sunteți vegetarian sau aveți alte preferințe."
+          },
+          {
+            "text": "<br><b>- tururi ghidate</b> - pe parcursul a două zile (vineri și sâmbătă), însoțiți de un ghid ce ne va arăta și povesti despre aceste obiective."
+          },
+          {
+            "text": "<br><b>* Nu ți se potrivește perioada?</b> contactează-ne prin telefon sau email (le găsești mai jos) și vom încerca să găsim o soluție."
+          }
+        ]
+      }
+    },
+    {
+      "form": {
+        "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
+        "submitButtonText": "Trimite rezervarea",
+        "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+        "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
+        "fields": [
+          {
+            "type": "email",
+            "name": "email",
+            "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+            "placeholder": "Email",
+            "required": true
+          },
+          {
+            "type": "phone",
+            "name": "phone",
+            "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
+            "placeholder": "Telefon",
+            "required": true
+          },
+          {
+            "type": "number",
+            "name": "numberOfPersons",
+            "iconFortAwesomeCode": "<i class='fas fa-male fa-fw'></i>",
+            "placeholder": "Număr de persoane",
+            "minLimit": 1,
+            "required": true
+          },
+          {
+            "type": "textarea",
+            "name": "others",
+            "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+            "placeholder": "Alte detalii? Scrie-ne aici...",
+            "rows": 2,
+            "maxChars": 500,
+            "required": false
+          }
+        ]
+      }
+    }
+  ]
+}

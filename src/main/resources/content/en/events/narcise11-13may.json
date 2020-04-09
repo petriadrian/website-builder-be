@@ -1,0 +1,209 @@
+{
+  "metaData": {
+    "title": "Weekend at the daffodil meadow Apuseni",
+    "text": "The daffodil meadow guided tour",
+    "img": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
+  },
+  "headline": {
+    "title": "Weekend at the daffodil meadow Apuseni",
+    "videoSource": "",
+    "img": "/assets/img/events/narcise/presentation/fullWidthImg.jpg"
+  },
+  "sections": [
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-alt'></i> Schedule",
+      "id": "schedule"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "In the <b>11 - 13 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana "}
+          "link":
+            {
+              "text": "(see here how to reach us)",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#directions"
+            }
+          ]
+        },
+        {
+          "title": "Saturday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Visit the daffodil meadow</b> <br> From Casa Petri we will go towards a protected area called 'Poiana Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will be an unique experience for you during this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
+                      }           }         ]       }     },     {                   }           }         ]       }     },     {       "images": [
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/narcise/img/1.jpg"
+            },
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/narcise/img/2.jpg"
+            },
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/narcise.jpg",
+              "img": "assets/img/attractions/article/narcise/img/narcise.jpg"
+            },
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/poiana.jpg",
+              "img": "assets/img/attractions/article/narcise/img/poiana.jpg"
+            },
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/biciclete.jpg",
+              "img": "assets/img/attractions/article/narcise/img/biciclete.jpg"
+            },
+            {
+              "text": "At the daffodil meadow Apuseni.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
+              "img": "assets/img/attractions/article/narcise/img/narcisele.jpg"
+            },
+            {
+              "text": "Towards the daffodil meadow.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/traseuBicicleta.jpg",
+              "img": "assets/img/attractions/article/narcise/img/traseuBicicleta.jpg"
+            },
+            {
+              "text": "Towards the daffodil meadow.",
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/traseuPeisaj.jpg",
+              "img": "assets/img/attractions/article/narcise/img/traseuPeisaj.jpg"
+            }
+          ]
+        },
+        {
+          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
+                      }           }         ]       }     },     {                   }           }         ]       }     },     {       "images": [
+            {
+              "text": "Movie screening in the garden",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
+            },
+            {
+              "text": "Images from the movie screening",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Sunday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> In the historic center of Rosia Montana there are several patrimony buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Guided tour - historic center Rosia Montana.",
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "img": "assets/img/accommodation/article/guides/img/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Guided tour - historic center Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
+            },
+            {
+              "text": "Guided tour - historic center Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
+              "img": "assets/img/attractions/article/sicilianStreet/img/3.jpg"
+            },
+            {
+              "text": "Guided tour - historic center Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+              "img": "assets/img/attractions/article/sicilianStreet/img/ornamente.jpg"
+            },
+            {
+              "text": "Guided tour - Carnic - Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/lakes/braziLake/img/2.jpg"
+            },
+            {
+              "text": "Guided tour - historic center Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/panoramicBench/img/2.jpg"
+            },
+            {
+              "text": "Guided tour - Carnic - Rosia Montana.",
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Guided tour - Carnic - Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "id": "info"
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "eventsInfo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-check'></i> Price and Bookings",
+      "id": "bookings"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "<br>The price is <b>55€</b>/person. <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+
+        }
+      ]
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "eventsBookingForm"
+          },
+          {
+            "id": "eventsFacebookInterested"
+          }
+        ]
+      }
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "We will also organize this even in: "},
+{
+          "link":
+            {
+              "text": "18 - 20 May ",
+              "textOnMouseOver": "Click here...",
+              "link": "en/events/narcise18-20may"
+            },
+            {
+              "text": "| 25 - 28 May ",
+              "textOnMouseOver": "Click here...",
+              "link": "en/events/narcise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}
