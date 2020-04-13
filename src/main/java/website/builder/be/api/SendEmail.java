@@ -24,7 +24,7 @@ public class SendEmail {
     }
 
     @PostMapping("/api/sendEmail")
-    @CrossOrigin(origins = {"http://localhost", "http://localhost:4200", "http://www.casapetrirosiamontana.ro"})
+    @CrossOrigin(origins = {"*"})
     public void sendEmail(@RequestParam(value = "content") String content) throws ParseException {
         JSONObject contentJson = (JSONObject) JSONValue.parse(content);
         new JSONParser().parse(content);

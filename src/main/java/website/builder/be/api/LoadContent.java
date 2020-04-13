@@ -13,7 +13,7 @@ import java.io.FileReader;
 public class LoadContent {
 
     @GetMapping("/api/loadContent")
-    @CrossOrigin(origins = {"http://localhost", "http://localhost:4200", "http://www.casapetrirosiamontana.ro"})
+    @CrossOrigin(origins = {"*"})
     public JSONObject loadContent(@RequestParam(value = "url") String url) {
         System.out.println("/loadContent=" + url);
         try {
