@@ -7,6 +7,7 @@ import org.json.simple.parser.ParseException;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 import org.springframework.mail.javamail.MimeMessageHelper;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -23,6 +24,7 @@ public class SendEmail {
     }
 
     @PostMapping("/api/sendEmail")
+    @CrossOrigin(origins = {"http://localhost", "http://localhost:4200", "http://www.casapetrirosiamontana.ro"})
     public void sendEmail(@RequestParam(value = "content") String content) throws ParseException {
         JSONObject contentJson = (JSONObject) JSONValue.parse(content);
         new JSONParser().parse(content);

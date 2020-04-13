@@ -2,8 +2,8 @@
   "logo": {
     "text": "Casa Petri Roșia Montană",
     "imgUrl": "https://lh3.googleusercontent.com/ds1cc_uW5Uc65VHVYUdd_g6AvpZtSV5RUFGiVFEx6wpHVyw2ct7tGKXn6ayaWfZkwJIcUFbc7rGAN7UcmPC56S0t3t9QCFvibOSmuOJ0D9WGIa10EDMFZ8L-WQ8T7DYXuTJiOVx-aNZdzOES0f5tpq8N3U9Uroe7jrKyTo8UVSKQM0vYxmGWLqZ7DiX_pgye8lJxCRMFZnOAN4xzEFSY7RflMJ0A6zDhk-Ts0B6uCUddo__CvdtZvjZ6Z9AuTd4xR-fIe5fQyO88Ytl9LhJ9se8I8NW8i4f87iCpIbifV8xvyJ0by8VRj31DEMdwUmqi1Yjge9l3EU_LHrxu51NPuX-wiAgIVemBKwWRkJQbatrPJMLmWMK10ts6v8yHojocY-U3wzXAtxbpqkKyKybCm7-Z6qUY7yESVNBFFUu5oh4eo90JhDbtCjWEKIKAs_hXJwH0ZBAQ1MgPWEEa7lEArPCJagG9VOdQBGXEN-XkSqd8PaozCO0j5bokTJv4sZ9gekxwvZic2WxAyR6oVTLKlZHU1gm28LQyTnYWqrKODBLt9y3z2RmmqB_MuRolmLX789qBn6BiFkoLBubj89zlBn8NjeRvm9Y740yqttD6itS4BphCPj2grXJcyRQs94YLtpaB4Ic7qALZjqQVXwbPyEaTj-PBAJr9GGJ1Nl98GTKLbQ9g5T80Uex4W5IHmBRqZjJYn39IGdJ0Ly1r72TcHSxz3pRNpEzABb4pi5FZpSlHiAi_YMzs2DA=w120-h40-no",
-    "link": "/",
-    "textOnMouseOver": "întoarcete la pagina principală..."
+    "link": "ro/index",
+    "textOnMouseOver": "întoarcete la pagina principală"
   },
   "leftButtons": [
     {
@@ -43,9 +43,7 @@
       "text": "<i class='fab fa-facebook-messenger fa-lg'></i>",
       "link": "https://www.messenger.com/t/casapetrirosiamontana",
       "textOnMouseOver": "contacteaza-ne pe messanger"
-    }
-  ],
-  "languageButtons": [
+    },
     {
       "text": "EN",
       "link": "en",

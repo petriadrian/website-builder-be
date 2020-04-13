@@ -1,29 +1,28 @@
 package website.builder.be.config;
 
 import org.json.simple.JSONObject;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
-import website.builder.be.api.LoadContentController;
+import website.builder.be.api.LoadContent;
 
 import java.util.Properties;
 
 @Configuration
 public class MailConfiguration {
 
-    private LoadContentController loadContentController;
+    private LoadContent loadContent;
 
-    public MailConfiguration(LoadContentController loadContentController) {
-        this.loadContentController = loadContentController;
+    public MailConfiguration(LoadContent loadContent) {
+        this.loadContent = loadContent;
     }
 
     @Bean
     public JavaMailSender getMailSender() {
 
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        JSONObject mailConfig = (JSONObject) loadContentController.loadContent("config").get("mail");
+        JSONObject mailConfig = (JSONObject) loadContent.loadContent("config").get("mail");
 
         mailSender.setHost(mailConfig.get("host").toString());
         mailSender.setPort(Integer.parseInt(mailConfig.get("port").toString()));

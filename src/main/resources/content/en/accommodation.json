@@ -1,5 +1,5 @@
 {
-  "metaData": {
+  "metadata": {
     "title": "Stay in a cosy house in Rosia Montana, Transylvania",
     "text": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then our grandparents who worked in mining industry used it for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves and we added new bathrooms and kitchen so now we offer accommodation, guided tours and bikes. The rooms (houses) have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif.",
     "img": "https://lh3.googleusercontent.com/aO8c8Jd9KDhmgBZH8onb3z-KgZkfyeosHSD29aTIW4bwFsmygAS_c9o9rO8GeTrzRgJchkOXzaMBdIryGU-o5TLqEslgoCocXRf1O4UI3piaxvQIp3V13KwDpaezrCHvGPMipE25z7AGtny3HyG0AhrqLuKnEGur72_-LBHPvfWoyvF-lqIbrUn25F3rQrN0cD6LAJkuwHWKAPQzKjDeQgCLrhi_M1iB8gItLPSwFNQQrrltF_6_CvdAdzNitQDNMYiuhRrHzHbHrwhb7t7OlHx7Elldnb8o0xYVdNWp81nfaB4uzEIArV5SWTHE6XOAweP1XSEzy6zl-M5G_5zrQFmAi6w5yqhIrs8jGkk9IMQl4dLVLl5S7CydPlTXw-gj0YayQkWb87tN3M761H6lutq4c5V7w3vG7iAowFHkxl_K0fmSviywacn_AUMRK_FkuGfUQx0fFG_vhRC1yVhVnEyPbzHmQV06tpKyLogbo6xj_8SqPAdrpT37ua2LjJokhgkpgjl14yHoCnfXJbDn7VSfzgh3E7672cNyToNoPGCn-x2a41uncv13vdwyAXTeb-9_UEEkdcG5nXWw8j8HTM6AT7XE3VF62_GltqIB5cEy-6HZ_b6oCcCHw0vJyRCF6xGJCoDbxy-rXCG0EmpXNvQLKtM_2r_CPtP0MRSYfDiIrw2mh0xaXuPYPb80a5dT37XPrno5GS5PyYKoP4affhL_sejZdvb9cV-qeqnNqN5UwdC-=w806-h496-no"
@@ -79,7 +79,7 @@
       "type": "article",
       "id": "bookings",
       "title": "<br><i class='far fa-calendar-check'></i> Bookings",
-      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to stay in a certain room, to rent bikes or to organize a <a href='ro/experiences/all#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='ro/experiences/all'>experiences</a> page"
+      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to stay in a certain room, to rent bikes or to organize a <a href='en/experiences/all#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='en/experiences/all'>experiences</a> page"
     },
     {
       "type": "form",
@@ -157,7 +157,7 @@
     },
     {
       "type": "article",
-      "text": "<br><br> <b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> until 11:00 <br><a href='ro/index#directions'>See here how to get to our place</a>. <br><br>"
+      "text": "<br><br> <b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> until 11:00 <br><a href='en/index#directions'>See here how to get to our place</a>. <br><br>"
     }
   ]
 }
