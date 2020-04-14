@@ -30,7 +30,7 @@ public class SendEmail {
         new JSONParser().parse(content);
         try {
             MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(javaMailSender.createMimeMessage(), true);
-            mimeMessageHelper.setSubject(contentJson.get("url").toString());
+            mimeMessageHelper.setSubject(contentJson.get("emailSubject").toString());
             mimeMessageHelper.setTo(((JavaMailSenderImpl) javaMailSender).getUsername());
             mimeMessageHelper.setReplyTo(contentJson.get("email").toString());
             mimeMessageHelper.setText(buildEmailContent(contentJson), true);

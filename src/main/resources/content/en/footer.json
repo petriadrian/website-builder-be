@@ -44,13 +44,14 @@
     },
     {
       "type": "form",
+      "emailSubject": "Message Casa Petri Rosia Montana",
       "successMessage": "Thanks! We will respond as sun as possible.",
       "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
       "submitButtonText": "Send",
       "fields": [
         {
           "type": "textarea",
-          "name": "feedback",
+          "name": "Message",
           "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Leave us a message ...",
           "rows": 3,

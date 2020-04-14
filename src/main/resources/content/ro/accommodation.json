@@ -81,8 +81,9 @@
       "type": "form",
       "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Prețurile pot să difere</b> în perioada cu sărbători sau alte evenimente.",
       "submitButtonText": "Trimite rezervarea",
+      "emailSubject": "Rezervare Casa Petri Roșia Montană",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-      "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
+      "errorMessage": "EROARE! Contactați-ne pe email la casaPetriRosiaMontana@gmail.com",
       "fields": [
         {
           "type": "email",

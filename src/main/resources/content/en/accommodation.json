@@ -81,6 +81,7 @@
       "type": "form",
       "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
       "submitButtonText": "Send the booking",
+      "emailSubject": "Reservation Casa Petri Rosia Montana",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
       "fields": [

@@ -44,13 +44,14 @@
     },
     {
       "type": "form",
+      "emailSubject": "Mesaj Casa Petri Rosia Montana",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
       "submitButtonText": "Trimite",
       "fields": [
         {
           "type": "textarea",
-          "name": "feedback",
+          "name": "mesaj",
           "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Scrie-ne un mesaj...",
           "rows": 3,
