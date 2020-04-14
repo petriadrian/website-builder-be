@@ -23,7 +23,7 @@ public class SendEmail {
         this.javaMailSender = javaMailSender;
     }
 
-    @PostMapping("/api/sendEmail")
+    @PostMapping("/sendEmail")
     @CrossOrigin(origins = {"*"})
     public void sendEmail(@RequestParam(value = "content") String content) throws ParseException {
         JSONObject contentJson = (JSONObject) JSONValue.parse(content);

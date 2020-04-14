@@ -12,7 +12,7 @@ import java.io.FileReader;
 @RestController
 public class LoadContent {
 
-    @GetMapping("/api/loadContent")
+    @GetMapping("/loadContent")
     @CrossOrigin(origins = {"*"})
     public JSONObject loadContent(@RequestParam(value = "url") String url) {
         System.out.println("/loadContent=" + url);
