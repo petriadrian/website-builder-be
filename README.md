@@ -16,5 +16,7 @@ mvn spring-boot:run
 
 #detach from screen
 Ctrl a + Ctrl d
+#kill a screen
+screen -XS 20411 quit
 ```
 

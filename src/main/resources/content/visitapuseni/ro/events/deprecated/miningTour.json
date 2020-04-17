@@ -1,0 +1,383 @@
+{
+  "presentation": {
+    "title": "Tur exploatări miniere",
+    "headline": "Tur exploatări miniere Roșia Montană",
+    "descriptionTitle": "28-31 iulie | pachet",
+    "text": "Tur ghidat: evoluția mineritului (de la galerii romane și exploatări de 2000 de ani vechime la cariere și lacuri de decantare",
+    "img": "/assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "./assets/img/packages/miningTour/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/miningTour",
+    "textOnMouseOver": "Vezi mai mult..."
+  },
+  "metadata": {
+    "title": "Tur exploatări miniere Roșia Montană | 28-31 iulie",
+    "text": "Traseu ghidat de drumeție - evoluția mineritului (de la galerii romane și exploatări de aur de 2000 de ani vechime la cariere de suprafață și lacuri de decantare (Roșia Poieni și Geamăna). Turul include cazare, mâncare, ghidaj și proiecții de fime. Detalii aici...",
+    "img": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "article",
+      "text": " ",
+      "id": "intro",
+
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "<b>pachet turistic | 28-31 iulie | încheiere înscrieri: 23 iulie"
+        },
+        {
+          "text": "Peisajul cultural minier Roșia Montană este mărturie a vastei istorii de exploatare a aurului în Cadrilaterul Aurifer din perioada romană și până în secolul XXI. Descoperă evoluția mineritului și amprenta lăsată de aceste exploatări prin proiecții de filme și tururi ghidate de drumeție (de la galerii romane și exploatări de aur de 2000 de ani vechime la utilaje, cariere de suprafață și iazuri de decantare). Pachetul include ghidaj, cazare și mâncare."
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-alt'></i> Program",
+      "id": "schedule"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+        },
+        {
+          "title": "Proiecție 'Povestea aurului'",
+          "text": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - vineri</b> <br>Proiecție în grădină - 'Povestea aurului din Roșia Montană' - imagini, filme și povești despre modul de extracție al aurului din trecut până în prezent, viața căutătorilor de aur și impactul deschiderii unei noi cariere pentru a extrage aurul rămas. Proiecția este și o introducere în traseele ghidate din zilele următoare.",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Proiecții în grădină",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
+            },
+            {
+              "text": "Imagini din proiecție",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Turul galeriilor",
+          "text": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - sâmbătă</b> <br>Împreună cu un ghid de la Muzeul Mineritului o să vizităm cele mai vechi exploatări de aur din zonă (galeriile romane), după care vom urca la galeriile de apă și foc ale masivului Cârnic și galeriile tip corandă de la Văidoaia. Pe parcurs o să urmărim și instalațiile de procesare a minereului aurifer, casele și obiceiurile diferitelor nații ce au venit aici de-a lungul timpului pentru a căuta aur.",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Galeriile Romane (106 – 272 d.Hr.)",
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
+            },
+            {
+              "text": "Instalații folosite pentru a prelucra minereul de aur.",
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/romanGalleries/img/2.jpg"
+            },
+            {
+              "text": "Piatra Corbului Cârnic - aici sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
+            },
+            {
+              "text": "Vizită la Galeriile romane Cârnic",
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/carnic/galleries/img/1.jpg"
+            },
+            {
+              "text": "În centrul istoric vom descoperi bisericile, casele și obiceiurile aurarilor.",
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
+            },
+            {
+              "text": "Vom vizita câteva tăuri și vom afla rolul lor în producția aurului. ",
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/lakes/braziLake/img/1.jpg"
+            },
+            {
+              "text": "Pe traseu - punct de belvedere Cârnic.",
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Vizită la galeriile de tip corandă.",
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "img": "assets/img/attractions/article/vaidoaiaGalleries/img/3.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Turul exploatărilor de suprafață",
+          "text": "Continuăm cu exploatări miniere mai recente: cariera deschisă Cetate și una din cele mai mari cariere de suprafață din Europa - Roșia Poieni. A fost mândria sistemului comunist, deține utilaje imense, iar lacul de decantare a deșeurilor miniere a fost făcut peste satul din apropiere - Geamăna. Pentru a vizita aceste obiective trebuie să trimitem o cerere cu lista participanților și datele de buletin cu o săptămână înainte (motiv pentru care încheierea înscrierilor este mai devreme)."
+        },
+        {
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 17:00 - duminică</b> <br>Drumeție spre cariera Cetate și apoi cariera Roșia Poieni.",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Cariera Cetate - exploatări relizate în perioada comunistă pentru extracția aurului.",
+              "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/carnic/sphinx/img/2.jpg"
+            },
+            {
+              "text": "Cariera Roșia Poieni - 24 de trepte de exploatare, fiecare de 15m înălțime.",
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/copperPit/img/1.jpg"
+            },
+            {
+              "text": "Tur ghidat - Cariera de suprafață Roșia Poieni - accesul e permis doar la punctele de obesrvație.",
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "img": "assets/img/attractions/article/copperPit/img/rosiaPoieniTourists.jpg"
+            }
+          ]
+        },
+        {
+          "text": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - luni</b> <br>Vizită la Geamăna - în funcție de alegerea grupului se poate ajunge cu mașina sau pe jos. Pe drum putem opri și la Mănăstirea Lupșa - cea mai veche așezare monahală de pe Valea Ariesului - anul 1421.",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Geamăna - este înconjurată de un drum de ~20km lungime.",
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
+              "img": "assets/img/attractions/article/lakes/geamana/img/6.jpg"
+            },
+            {
+              "text": "Geamăna - din vechiul sat se mai vede turla bisericii și câteva gospodorii.",
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/lakes/geamana/img/1.jpg"
+            },
+            {
+              "text": "Mănăstire Lupșa - 1421",
+              "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/churches/lupsa/img/1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "readOurReviews"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "id": "info"
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "packagesInfoText"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "id": "accommodation",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "accommodationShortInfo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fas fa-utensils'></i> Mâncare",
+      "id": "food",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "food"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "id": "otherActivities",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "otherActivitiesFirstPart"
+          },
+          {
+            "id": "otherActivitiesSecondPart"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "Alte informații",
+      "id": "otherInfo",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "otherInfoTours"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
+      "id": "bookings"
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "tourReservationInfo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "form",
+      "afterFormText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
+      "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "telefon",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Alege camera",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
+            "minOccurs": 1,
+            "maxOccurs": 10
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "o cameră de o pers - 100lei/noapte"
+                },
+                {
+                  "text": "o cameră de 2 pers - 120lei/noapte"
+                },
+                {
+                  "text": "o cameră de 3 pers - 150lei/noapte"
+                },
+                {
+                  "text": "o cameră de 4 pers - 180lei/noapte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "checkBoxes": [
+            {
+              "id": "reserveFood",
+              "text": "<i class='fas fa-utensils fa-fw'></i> | <b>doresc masa la localnici ~40lei/pers/zi</b>"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": " ",
+      "id": "notInterested",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "seeOurFacebookEvent"
+          }
+        ]
+      }
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "id": "linkText",
+
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "ro/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

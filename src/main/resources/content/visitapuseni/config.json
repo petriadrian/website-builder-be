@@ -1,0 +1,14 @@
+{
+  "defaultLanguage": "ro",
+  "style": {
+    "primaryColor": "blue",
+    "secondColor": "green"
+  },
+  "mail": {
+    "username": "casapetrirosiamontana@gmail.com",
+    "password": "099asincron",
+    "host": "smtp.gmail.com",
+    "port": "587"
+  },
+  "googleAnalyticsTrackingId": "UA-72421107-1"
+}

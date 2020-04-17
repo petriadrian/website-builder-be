@@ -2,7 +2,6 @@ package website.builder.be.api;
 
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
-import org.json.simple.parser.ParseException;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 import org.springframework.mail.javamail.MimeMessageHelper;
@@ -11,19 +10,24 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.mail.MessagingException;
+import javax.servlet.http.HttpServletRequest;
+import java.util.Properties;
+
+import static java.lang.Integer.parseInt;
 
 @RestController
 public class SendEmail {
 
-    private JavaMailSender javaMailSender;
+    private LoadContent loadContent;
 
-    public SendEmail(JavaMailSender javaMailSender) {
-        this.javaMailSender = javaMailSender;
+    public SendEmail(LoadContent loadContent) {
+        this.loadContent = loadContent;
     }
 
     @PostMapping("/sendEmail")
-    public void sendEmail(@RequestParam(value = "content") String content) throws ParseException {
+    public void sendEmail(@RequestParam(value = "content") String content, HttpServletRequest request) {
         JSONObject contentJson = (JSONObject) JSONValue.parse(content);
+        JavaMailSender javaMailSender = getMailSender(request);
         try {
             MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(javaMailSender.createMimeMessage(), true);
             mimeMessageHelper.setSubject(contentJson.get("emailSubject").toString());
@@ -46,5 +50,25 @@ public class SendEmail {
                     .append("<br>");
         });
         return emailBody.toString();
+    }
+
+    private JavaMailSender getMailSender(HttpServletRequest request) {
+        JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
+        JSONObject mailConfig = (JSONObject) loadContent.loadContent("config", request).get("mail");
+        mailSender.setHost(mailConfig.get("host").toString());
+        mailSender.setPort(parseInt(mailConfig.get("port").toString()));
+        mailSender.setUsername(mailConfig.get("username").toString());
+        mailSender.setPassword(mailConfig.get("password").toString());
+        mailSender.setJavaMailProperties(getMailProperties());
+        return mailSender;
+    }
+
+    private Properties getMailProperties() {
+        Properties javaMailProperties = new Properties();
+        javaMailProperties.put("mail.smtp.starttls.enable", "true");
+        javaMailProperties.put("mail.smtp.auth", "true");
+        javaMailProperties.put("mail.transport.protocol", "smtp");
+        javaMailProperties.put("mail.debug", "true");
+        return javaMailProperties;
     }
 }

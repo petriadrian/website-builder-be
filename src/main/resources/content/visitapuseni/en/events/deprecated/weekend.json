@@ -1,0 +1,313 @@
+{
+  "presentation": {
+    "title": "Rosia weekend tour",
+    "headline": "Weekend at Rosia Montana",
+    "descriptionTitle": "march - december | package",
+    "text": "A package with 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia",
+    "img": "/assets/img/packages/weekend/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "./assets/img/packages/weekend/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/packages/weekend",
+    "textOnMouseOver": "See more..."
+  },
+  "metadata": {
+    "title": "Weekend at Roșia Montană",
+    "text": "The package includes 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia Montana. More details and bookings here...",
+    "img": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "article",
+      "text": " ",
+      "id": "intro",
+
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "Rosia Montana is the oldest locality from Romania, it has an unique mining and cultural landscape and it's situated in the Transylvania mountains, a perfect place for mountain biking or hiking. The package <b>includes 2 nights accommodation and a guided trail (~6h) to the main cultural and natural attractions.</b>"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-alt'></i> Program",
+      "id": "schedule"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "title": "Day 1",
+          "text": "<b><i class='far fa-clock'></i> 16:00 - 20:00 - check in</b> and accommodation."
+        },
+        {
+          "title": "Day 2",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 15:00 - Guided trail of the main cultural and natural objectives</b>. Will start from the historic center, where will visit some patrimony buildings (multicultural churches and schools or the goldsmith houses) built by various nations who came here to extract gold. Will continue with the Cârnic massif where will visit some natural and mining objectives (pounds, protected areas, open pits and gold galleries).",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "Guided trail - the historic center of Rosia Montana.",
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
+              "img": "assets/img/packages/weekend/article/img/1.jpg"
+            },
+            {
+              "text": "The historic center churches.",
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
+            },
+            {
+              "text": "Guided trail - Văidoaia gallery.",
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "img": "assets/img/attractions/article/vaidoaiaGalleries/img/3.jpg"
+            },
+            {
+              "text": "We will visit some pounds and will find out their role in gold mining.",
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/lakes/braziLake/img/2.jpg"
+            },
+            {
+              "text": "We will have a break at the lookout points.",
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "img": "assets/img/attractions/article/panoramicBench/img/2.jpg"
+            },
+            {
+              "text": "On the trail.",
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/2.jpg",
+              "img": "assets/img/packages/weekend/article/img/2.jpg"
+            },
+            {
+              "text": "The Roman Galleries from Mining Museum",
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/carnic/galleries/img/1.jpg"
+            },
+            {
+              "text": "Piatra Corbului - inside are some of the oldest galleries, made with a special technique.",
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Day 3",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 11:00</b> - if you have time and energy you can visit the Mining Museum which is at ~10min away. Here you can go inside the Roman Galleries with a guide (the trail takes 2 hours and the ticket is 3 euro).",
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "The roman galleries (106 – 272 AD) built to extract gold.",
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
+            },
+            {
+              "text": "Stamp mills - the machines used to process the gold - Mining Museum.",
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/steampuri.jpg",
+              "img": "assets/img/attractions/article/romanGalleries/img/steampuri.jpg"
+            }
+          ]
+        },
+        {
+          "title": ".",
+          "text": "Here will end your trip to Rosia Montana :( <br>The <b>check-out</b> can be made until <b>12:00</b>, but before we will have to make a picture together and to leave us your <b>review</b>. Read the reviews of the people who visited us on the "},
+{
+          "link":
+            {
+              "text": "reviews page",
+              "textOnMouseOver": "Click here...",
+              "link": "en/review"
+            }
+          ],
+                      }           }         ]       }     },     {       "images": [
+            {
+              "text": "With a group from Romania.",
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "img": "assets/img/reviews/article/reviewer/img/alexandra-postelnicu.jpg"
+            },
+            {
+              "text": "With a group from Sweden.",
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "img": "assets/img/reviews/article/reviewer/img/simona-sweden.jpg"
+            },
+            {
+              "text": "With a group from India and Taiwan.",
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/11.jpg",
+              "img": "assets/img/reviews/article/reviewer/img/11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "id": "info"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "Bellow are more info about this package and other useful info. If you have other questions, please contact us by email or phone (can be found in the footer)."
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-bed'></i> Accommodation",
+      "id": "accommodation",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "accommodationShortInfo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fas fa-utensils'></i> Food",
+      "id": "food",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "food"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-puzzle-piece'></i> Other activities",
+      "id": "otherActivities",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "otherActivitiesSecondPart"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-bicycle'></i> Bikes",
+      "id": "bike",
+
+    },
+    {
+      "article": {         "heading": {
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "bike"
+          }
+        ]
+      }
+    },
+    {
+      "type": "article",
+      "text": "<i class='far fa-calendar-check'></i> Bookings",
+      "id": "bookings"
+    },
+    {
+      "article": {         "heading": {
+      "specificArticles": [
+        {
+          "text": "<br>The <b>price</b> of the package is <b>45€/pers</b> and is for minimum 2 persons. It <b>includes</b> 2 nights of accommodation, a guided trail (~6h), the use of the hammocks, library and board games. It is <b>not included</b>: the meals at locals, the museum ticket, bike rental or the personal expenses. Fill the number of the persons and the period and we will contact you by email or phone to confirm and to tell you what types of rooms can we offer."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation</b> email will be received!",
+      "submitButtonText": "Send booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "phone",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "far fa-calendar-alt fa-fw",
+          "placeholder": "Period",
+          "required": true
+        },
+        {
+          "type": "number",
+          "name": "numberOfPersons",
+          "iconFortAwesomeClass": "fa fa-male fa-fw",
+          "placeholder": "Number of persons",
+          "minLimit": 2,
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "foodAtLocals",
+          "iconFortAwesomeClass": "fas fa-utensils fa-fw",
+          "placeholder": "Do you want to eat at locals? Are you vegetarian?",
+          "rows": 2,
+          "maxChars": 500,
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Other details? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "article",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "id": "linkText",
+
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "en/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "article": {         "heading": {
+  "specificArticles": [
+    {
+      "text": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
+      "linkText": [
+        {
+          "text": "imagini și review-uri pachet",
+          "textOnMouseOver": "Click aici...",
+          "link": "https://www.facebook.com/casapetrirosiamontana/posts/1645586628814363"
+        }
+      ]
+    }
+  ]
+},
