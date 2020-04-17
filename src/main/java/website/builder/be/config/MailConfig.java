@@ -10,11 +10,11 @@ import website.builder.be.api.LoadContent;
 import java.util.Properties;
 
 @Configuration
-public class MailConfiguration {
+public class MailConfig {
 
     private LoadContent loadContent;
 
-    public MailConfiguration(LoadContent loadContent) {
+    public MailConfig(LoadContent loadContent) {
         this.loadContent = loadContent;
     }
 
