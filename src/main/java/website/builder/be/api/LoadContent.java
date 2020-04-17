@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletRequest;
 import java.io.FileReader;
+import java.net.URI;
 
 @RestController
 public class LoadContent {
@@ -15,7 +16,8 @@ public class LoadContent {
     @GetMapping("/loadContent")
     public JSONObject loadContent(@RequestParam(value = "url") String url, HttpServletRequest request) {
         System.out.println("/loadContent=" + url);
-        System.out.println("request.origin=" + request.getHeader("origin"));
+        System.out.println("request.getRequestURL=" + URI.create(request.getRequestURL().toString()).getHost());
+        System.out.println("request.origin=" + URI.create(request.getHeader("origin")).getHost());
         try {
             return (JSONObject) new JSONParser().parse(
                     new FileReader(getClass().getClassLoader()

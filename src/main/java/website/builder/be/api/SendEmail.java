@@ -25,11 +25,9 @@ public class SendEmail {
     }
 
     @PostMapping("/sendEmail")
-    public void sendEmail(@RequestParam(value = "content") String content, 
-                          @RequestParam(value = "hostname") String hostname,
-                          HttpServletRequest request) {
+    public void sendEmail(@RequestParam(value = "content") String content, HttpServletRequest request) {
         JSONObject contentJson = (JSONObject) JSONValue.parse(content);
-        JavaMailSender javaMailSender = getMailSender(request, hostname);
+        JavaMailSender javaMailSender = getMailSender(request);
         try {
             MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(javaMailSender.createMimeMessage(), true);
             mimeMessageHelper.setSubject(contentJson.get("emailSubject").toString());
@@ -54,9 +52,9 @@ public class SendEmail {
         return emailBody.toString();
     }
 
-    private JavaMailSender getMailSender(HttpServletRequest request, String hostname) {
+    private JavaMailSender getMailSender(HttpServletRequest request) {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        JSONObject mailConfig = (JSONObject) loadContent.loadContent(hostname + "/config", request).get("mail");
+        JSONObject mailConfig = (JSONObject) loadContent.loadContent( "/config", request).get("mail");
         mailSender.setHost(mailConfig.get("host").toString());
         mailSender.setPort(parseInt(mailConfig.get("port").toString()));
         mailSender.setUsername(mailConfig.get("username").toString());
