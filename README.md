@@ -6,9 +6,9 @@ git pull
 
 # check if any screen session open
 screen -ls
-# atach to existing one with
+#ATACH# to existing screen session with
 screen -xS website-builder-be
-# create a new screen session 
+#NEW# screen session creation
 screen -S website-builder-be
 
 mvn clean install
