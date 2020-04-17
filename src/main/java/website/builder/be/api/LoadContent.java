@@ -19,7 +19,7 @@ public class LoadContent {
         try {
             return (JSONObject) new JSONParser().parse(
                     new FileReader(getClass().getClassLoader()
-                            .getResource("content/" + request.getServerName() + "/" + url + ".json").getFile()));
+                            .getResource("content/" + "casapetri" + "/" + url + ".json").getFile()));
         } catch (Exception e) {
             e.printStackTrace();
             return new JSONObject();
