@@ -207,13 +207,33 @@
     },
     {
       "type": "article",
-      "id": "apuseni",
-      "title": "<br><i class='far fa-star'></i> Discover the surrounding attractions",
-      "text": "The <b>Scărișoara Glacier</b> - a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains. <br><b>Pișoaia Waterfall</b> and <b>Snail hill</b> (a reef shell of snails that lived millions of years ago on the bottom of the sea) <br>Explore the valley of the <b>Arieș River</b>, see the old <b>Lupșa Monestery</b> and the cave of the giants from ancient times <b>Huda lui Papară</b> <br><br>"
+      "id": "scarisoara",
+      "title": "<br><i class='fas fa-mountain'></i> One of the largest underground glacier",
+      "text": "The <b>Scărișoara Glacier</b> is a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains. Is located at 1h by car or 4h by bike from us.<br><br>"
     },
     {
       "type": "article",
       "img": "https://lh3.googleusercontent.com/geqmCetwLvhNfwadzh7jRjCHaMLWjZqSYHn70HNtJerMPiNRLK11zNGLAGpmPAB8O0uU0jVGJIfnG0--YjeLmtVvCuWTTvGDbpo0m5Gdlr-a_Ery6u0aTiiPLhy7AYSgoF3eX6c2af0jnacE02HtslpDw2ObIodeQFjEn7SV1h1FlLSbp5wHhXpNido_SNnlKTHZoGBDa1ekmgjJH490N5fS0aexfodLuOo7gfu3ZjQVtX02JbulR3J4CveYfa36jXOHxSrgMha_tmfy_HG9B62pC9-PEHcQ2GQh9ICO_A9HDKxLKepRmU3AyHjJey0OqU40sV_szCe0fMGD5cjxiCU2gl26MUAA7w5PD_w8yAWNiaHrNqL7yLiLPAoGvL3gMdJ7YueII5LKeqsK1SxiGmyHKiLt00xULZgQTwubR50MzGl5WOFDE6A5xsmV_Nm5GJpT1rn_EFavT9sE3FtirsAgrA2wMQfeJLKXH_g1u2If2iRuJczRE_X81bCuRWlZKkUBLl6topyrtp3hyUySE7aYCSgfyHqbt5fyuM3NPb7OBHa9IsX2USLwTUBY1SnBs__PHIeTOwKO58gZ-ja_vz57SlFZKhfwlO2MkGO248bOSAzHti2FmuFCgJjW9CR4fv7xjK4Hi4NyTBD1KBeBkRHAuPDW5gtyhXtkwdmR4csHwczveYMVvsUXknLaB2RUWcM_A_01GIyfNUzZC-jsUQsrx9uDL8GncmdUvf5x4k3qWyOx=w838-h558-no"
+    },
+    {
+      "type": "article",
+      "id": "pisoaia",
+      "title": "<br><i class=\"fas fa-water\"></i> An unique place, Pișoaia Waterfall",
+      "text": "Pisoaia Waterfall has 18 meters high and is surounded by a pine forest. Nerby is the <b>Snail hill</b> (a reef shell of snails that lived millions of years ago on the bottom of the sea). They are located at 30min by car from us or 2h by bike.<br><br>"
+    },
+    {
+      "type": "article",
+      "img": "https://lh3.googleusercontent.com/qsPbTmYxLv4tMhkBD7l1e9Fh40n4M2tcUULq0bE9Yv8CHxRxbYpIxleVHAfFX1ofPhAlQe2siF6Wy19EICcCmBkyPSUDerEEsh5wiHf6kOiB9NY3u4-PD7zYazZdCK4qpih-zFIsRwhUNY8BeLqB3WlkHdGobAz_r6f16fvRf-ORywNbHudB5J4mYbWyN32ptgxPNJ3Q2HdiLDIj8FcjD4GuTj1SwZnt1DeYfSDhT1VK0ArF8K7wdXZ7y88jY17_8nLN22eOILzSpI00ujF8lHlSJgjJpojV8NbYDpl2oq-ivZdN4LxgAttZemA97NGeTTxS5u9tarO6-xPJdouDrFTE7q0Siy_RvqbYNGGDVCpds5gtoM8DK6lNFAaYCkWqdloM4xxmSv7IspGcdrd9fTP1dcAdsgB9f29FLN5Suy87NSb5vQ_vyag4Ua-NEDzM_viasFGIZNAJcPB5OwQ8cxfmXYxOhyJ7w8-hMnl94-lbyqvecfLaVlllfPduSlcMo8E1SFxCwlfOIHamPiqr8bKTxqndXXhNXL8m5mIU-DlFU4yzsLili66ztUCfNHzCcLq5mJkYIKRcODWeRjsFigZxJn0aR89SWnDm1e1GVVclpYcQHEd8xeLWwFrnagyOubJxvZNNhnog8PQ8qwOxjyUMB6QjveY4_AtBv0Giv8GST6l2K1xABTA9hiNgq1s8vYuzfPQk7IzJiXRgedBcCEGH0nHP4Zrn8KJ4dwsq8Mu21KDK-2_Mzp0=w1500-h1125-no"
+    },
+    {
+      "type": "article",
+      "id": "aries",
+      "title": "<i class=\"far fa-star\"></i> Discover the attractions from the Arieș Valley",
+      "text": "On the <b>Arieș River</b> will see one of the oldest monestery from Apuseni the <b>Lupșa Monestery</b>, the cave of the giants from ancient times <b>Huda lui Papară</b> or the Salciua steamtrain. They are at 1h by car or 4h by bike. <br><br>"
+    },
+    {
+      "type": "article",
+      "img": "https://lh3.googleusercontent.com/x4-QDJCflli0yDICnSGu_7BqOzZiwVYzKaT-gAUZTt5DOKkeDqki6_Xfhoe5gppF0RUYXwwZZTY8Agw6e67v9YDbSj3XcfmSLdkqzt18Prem8wByx7dUHLZljYdPVZ1i3bLCvVR6eLWQ9etM9-0eVngEncTJbvjEnQ0-gS4Nx41HPkZnFbuliu1PXetX7l2Qj7xOy-9BLgERxcLzqq1GoFc3lo_pwrGiQilauT100gCeAhRIzAhEKpsHNh6lRkVYyq4DbSVtS3R1wh5YgzQ0oX5i_MXpEsP1L2KTP8H5hAs9dVzqztvNcPZ8KhKohPgkkPhn8vi5Qm3A-olqMwZU8zqoDTAjEMfNIC4a-apu4cT08MMal9eNyzHEgdZSTgFTdAMoJ0lLCQEjr68r15bMz8mpYXUYdTAl-BFk14cqABDVxMJLWBcWsX5SZh2QYEAJIyteioYPDL1v_Ou4zmK92DbUS9vm44XDnNyDYWF0hLRHaRYlKPXoOxB2shYh6DbL0MPJ-1SbgXxwoWaxiDY8RYiSMeDZmUZvZu562m4pZkJ9jba87f0zgF7kRIWIJCrmd-cZVC9ibUFmvNJwZNhJyW2GD0kj2M6Ev-tBFhSOSztoeTTtenmK4y3UMMwxhTQ5uYxDR4wYQL6RmCAC4BPet_04Nl3vl7Uc7PQoaEnD-CUT7UWXrAf0v6LlcAUHZ7hYugEV1GNiRjueV8_cdNwPurRTwt4N2GOWOBf28DHJ7Vzy8N2EDAU6PCw=w839-h558-no"
     },
     {
       "type": "article",

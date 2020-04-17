@@ -7,9 +7,9 @@ git pull
 # check if any screen session open
 screen -ls
 # atach to existing one with
-screen -r
+screen -xS website-builder-be
 # create a new screen session 
-screen
+screen -S website-builder-be
 
 mvn clean install
 mvn spring-boot:run

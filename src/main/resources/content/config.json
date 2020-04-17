@@ -9,5 +9,6 @@
     "password": "099asincron",
     "host": "smtp.gmail.com",
     "port": "587"
-  }
+  },
+  "googleAnalyticsTrackingId": "UA-72421107-1"
 }
