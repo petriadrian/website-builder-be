@@ -19,8 +19,9 @@ public class LoadContent {
     @GetMapping("/loadContent")
     public JSONObject loadContent(@RequestParam(value = "url") String url, HttpServletRequest request) {
         try {
+            System.out.println("/loadContent url=" + url);
             String contentPath = "content/" + getOriginHostname(request) + "/" + url + ".json";
-            System.out.println("/loadContent=" + contentPath);
+            System.out.println("/loadContent fullPath=" + contentPath);
             return (JSONObject) new JSONParser().parse(
                     new FileReader(getClass().getClassLoader()
                             .getResource(contentPath)
@@ -38,7 +39,6 @@ public class LoadContent {
 
     private String getOrigin(HttpServletRequest request){
         return ofNullable(request.getHeader("origin"))
-                .orElseThrow(() -> new IllegalArgumentException("Origin request Hostname '" 
-                        + request.getHeader("origin") + "' cannot be resolved"));
+                .orElseThrow(() -> new IllegalArgumentException("Origin request Hostname '" + request.getHeader("origin") + "' cannot be resolved"));
     }
 }
