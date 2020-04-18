@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.mail.MessagingException;
-import javax.servlet.http.HttpServletRequest;
 import java.util.Properties;
 
 import static java.lang.Integer.parseInt;
@@ -55,7 +54,7 @@ public class SendEmail {
 
     private JavaMailSender getMailSender(String hostname) {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        JSONObject mailConfig = (JSONObject) loadContent.loadContent( hostname+"/config").getBody().get("mail");
+        JSONObject mailConfig = (JSONObject) loadContent.loadContent(hostname + "/config").getBody().get("mail");
         mailSender.setHost(mailConfig.get("host").toString());
         mailSender.setPort(parseInt(mailConfig.get("port").toString()));
         mailSender.setUsername(mailConfig.get("username").toString());
