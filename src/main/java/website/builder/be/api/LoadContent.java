@@ -2,7 +2,6 @@ package website.builder.be.api;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.springframework.boot.web.server.WebServerException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -32,20 +31,14 @@ public class LoadContent {
         }
     }
 
-    private String getOriginHostname(HttpServletRequest request) {
-        return ofNullable(request.getHeader("origin"))
-                .map(url -> {
-                    try {
-                        return new URL(url).getHost().startsWith("www.") ? url.substring(4) : url;
-                    } catch (MalformedURLException e) {
-                        throw buildException(request, e);
-                    }
-
-                })
-                .orElseThrow(()->buildException(request, new MalformedURLException()));
+    private String getOriginHostname(HttpServletRequest request) throws MalformedURLException {
+        String originUrl = new URL(getOrigin(request)).getHost();
+        return originUrl.startsWith("www.") ? originUrl.substring(4) : originUrl;
     }
 
-    private RuntimeException buildException(HttpServletRequest request, MalformedURLException e) {
-        return new WebServerException("Origin request Hostname ' " + request.getHeader("origin") + "' cannot be resolved", e);
+    private String getOrigin(HttpServletRequest request){
+        return ofNullable(request.getHeader("origin"))
+                .orElseThrow(() -> new IllegalArgumentException("Origin request Hostname '" 
+                        + request.getHeader("origin") + "' cannot be resolved"));
     }
 }
