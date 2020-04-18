@@ -32,7 +32,7 @@ public class LoadContent {
     }
 
     private String getOriginHostname(HttpServletRequest request) throws MalformedURLException {
-        String originUrl = new URL(getOrigin(request)).getHost();
+        String originUrl = new URL(request.getHeader("origin")).getHost();
         return originUrl.startsWith("www.") ? originUrl.substring(4) : originUrl;
     }
 
