@@ -54,7 +54,7 @@ public class SendEmail {
 
     private JavaMailSender getMailSender(HttpServletRequest request) {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        JSONObject mailConfig = (JSONObject) loadContent.loadContent( "/config", request).get("mail");
+        JSONObject mailConfig = (JSONObject) loadContent.loadContent( "/config", request).getBody();
         mailSender.setHost(mailConfig.get("host").toString());
         mailSender.setPort(parseInt(mailConfig.get("port").toString()));
         mailSender.setUsername(mailConfig.get("username").toString());
