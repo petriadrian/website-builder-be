@@ -1,7 +1,7 @@
 {
   "defaultLanguage": "ro",
   "style": {
-    "primaryColor": "blue",
+    "primaryColor": "dodgerblue",
     "secondColor": "green"
   },
   "mail": {
@@ -10,5 +10,6 @@
     "host": "smtp.gmail.com",
     "port": "587"
   },
-  "googleAnalyticsTrackingId": "UA-72421107-1"
+  "googleAnalyticsTrackingId": "UA-72421107-1",
+  "facebookPageId": "754321564607545"
 }
