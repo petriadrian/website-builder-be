@@ -40,11 +40,6 @@
       "textOnMouseOver": "trimite-ne un email la casaPetriRosiaMontana@gmail.com"
     },
     {
-      "text": "<i class='fab fa-facebook-messenger fa-lg'></i>",
-      "link": "https://www.messenger.com/t/casapetrirosiamontana",
-      "textOnMouseOver": "contacteaza-ne pe messanger"
-    },
-    {
       "text": "EN",
       "link": "en",
       "textOnMouseOver": "switch to english"
