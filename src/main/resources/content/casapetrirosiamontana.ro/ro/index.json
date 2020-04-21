@@ -46,8 +46,8 @@
     },
     {
       "type": "article",
-      "title": "<i class='fas fa-hiking'></i> Hai într-un tur al zonei noastre",
-      "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Pentru a descoperi toate acestea oferim <a href='en/experiences/all#guidedTour'>tururi ghidate</a> în zona noastră.",
+      "title": "<i class='fas fa-hiking'></i> Hai într-un <a href='ro/experiences/all#guidedTour'>tur ghidat</a> al zonei",
+      "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Pentru a descoperi toate acestea oferim <a href='ro/experiences/all#guidedTour'>tururi ghidate</a> în zona noastră.",
       "img": "https://lh3.googleusercontent.com/sdpfirZ5jM5gUduB-kQFlME1vDY7mZUqhhtUsuASfVEKyXHafq8vQ4cs8LwiOeO4xi5e0S-_yyrAkiR9GgyuQWBhvvofeRi-jhIo9KPmxazkWDsvGygXQny6tz_avVuhBFSp2hXD80iMNvBhHH0PnW0TxigaTRCG-s-m9QGjrI03GO1-YFCV64SKxEWWTc3GL7NWoDt8KfAmnDrtrQpTletidlVG97_hGE1wXtlPa446-HImn2NEgARfwNUYkhJ2kaP4lzkn6l_1BuAzjLaqNAkjgCpT-dYTA0ILZqjCIyCG6A_HtZjH6qN6O24Fj5pOQLxfoQcTrUIlICFSrZtKqnIAlYvC9TWgk62vaDiSx-0VAng--QgTNgY9UcCvV5SBBHDbD3EfvN0dlAHYu1HLsf0K7z57NIABX4TbVsTx004VZM2kDQxp9Kq3sKzbV4HtXRdVw0GgsoB3w9OGweyO47P7RV5phaYMNunYxpsJUZN9oEASiIqpeQ5rVR5zdG89rG6f0BzyzQtfBah9GF_PP6EhG9Yi1gjI3i3IeZ5KTGX1Dncuooqx-mmsX5bmtXi2hBBzFQXf8xbrzq_XMfiOEPH4ZXAhkYHYDF-XnMOxDA4v-iePZVfY_MgeN-zImEscCaSOi271RxB-o1zrQXqOH4TTGQU1YejCnSnHgbQgOovnww43tVOtkk-wl37BpzfFeeD0RPolPkpMACIv4uT0nqvIpMFimJEhXyzp50g-a1n_YEDJ=w1700-h1130-no"
     },
     {
@@ -95,6 +95,12 @@
           "img": "https://lh3.googleusercontent.com/D9ldgSxic3wdUJH6H51sF6E6v7aO7ccTUdMTZneHKPWPuSnrEqQgEwdDNDYHuHZVkM0QiadoHUJqHrIrnBWlPE2DesO_cAgGn0kzhL5CXIWXnlfz9H5mNMNZ-i_6w9Qp8naX9-2SrckrEO1xkQgjXcHOb5bKD-jRwtgzPMDV0xA8lwR2PBDr838nFdK-HEuO0AV4ZVoj-RTGna2L1vHQAm5-hs0bEWody1BZ59KoPlwtrXgoG61EsK1iqrof5PDKr72amM_E5AuCF8S3FNEsV9sknC5B2-VdLndDHSSEj-Agcy3BT1peO97W3Ms0SBAQGZVT7CRRy_tzAP31wNoHJTox72AowjDgQblIfgC1nQHaRu7fiJ0QtsDkMz0FAbu61CF9TsshlS66yNznH5VYDJTfRH97QQ7PKlQEVNohMQet5BmHBLJ74FUBgLk-PG050lKw4m0RHYQ7ma70BlFGsET0Cs_MnnkNczw5zh-7u_DwMwBLZt_qzezGfH2ZF3Od5O9Ziri81vmmBiTg8PTiQ2AGPqcQrpevEzWL3HII-BoGBKbxaw7cD2neu-DgagLWDoe-N-kQZSjwY3py0UKT7E8hiNvmCV4KGpAsycq41NbbQtBZrvUoDDyrhP-4GmgZz5fl8UrjiAwUUM0z_LSbJfJs7eMJQ9adkERrwttX4s0WxeJWtaK6BBLgcZtTgaKkbHueWYvqsMwXQAkzRkdOamWV70rfl-CU6UQP7-NXzfNa2VFi=w1400-h824-no"
         }
       ]
+    },
+    {
+      "type": "article",
+      "title": "Village break la Roșia Montană",
+      "text": "Hai într-un tur al satului, odihnește-te pe o căpiță de fân, scufundă-te în mirosul ierbii, ascultă liniștea și sunetul tălăngilor. Te putem îndruma spre localnici ce oferă masa sau diverse produse făcute la ei în gospodărie. <a href='ro/accommodation#bookings'>Rezervă aici</a> o vacanță la Roșia.",
+      "img": "https://lh3.googleusercontent.com/_XdvI3jVVYa8LEjpykbPCnaiH6CX8FodiLvbSjl59Be0vdXZdGkI-KBiyeowDay9QHhKRsCHKKvlv0DbjOultZL7-_mYkTJwnQAkBSTHIwsT9usQMYhBQQJcM50XLmhHd7tdCrrWEwmyP-pJDivm_-4q7m4IrBwIdpnY43DhvgkPqx_YB7LC3gb2IkKCwQUCXmURcetGbjZSErvyte6NXvuoj12EpaMIDcPpOZKbsbA5Vn-XlUl5nX7CYAwrKZtHJUSfCUcPkIbEYiIahsuVmTQ8KtnPnRQt9JMW05TT2kYJfSD-DoNCdWK3MWl-cdfNoREYu5couneJvamQLHSo9uxEfatIU8kEewDJaB-OUawEAn_9DQo-7Y16LPV_Tlc1kE6AU5h7gQ-Tb9rgckcSty9MtBbTb3_4VAOocV5YISpggGtieakaAhO7FlcmPCrH97F9Q9npTnrxn3MpOayDJmdyB6xnBUKyqjcpIo57CPmuk6n19VqVUmyg7D-5nHgMJ6TnVgiumGmf7Vxkona8R12RNTAKWuoGQ-TN3ZCQIUrepEP4L0zk-Z5qonp2zbJ2_2xiEEyO54Oad0XSGF1PwXlAofiwB8SPJP6UZUEvwffzocBEG_ZL_AuwAbO5ImI84q3oNq7H7YLGzzoYUDy2-MZ9KCT0pq4nnSTYU2WTF2jW4WpZLOodGTvq1QnFhKEB0ipBcq6QR1tLr7RchlaBLyw8OojlwNCSRQ95lbNxIofLGPUc4yi8Rog=w2100-h1396-no"
     },
     {
       "type": "article",

@@ -11,7 +11,7 @@
     "port": "587"
   },
   "googleAnalyticsTrackingId": "UA-72421107-1",
-  "facebook":{
+  "facebook": {
     "welcomeMessage": "Salut, te pot ajuta? Hello, can I help?",
     "pageId": "754321564607545"
   }

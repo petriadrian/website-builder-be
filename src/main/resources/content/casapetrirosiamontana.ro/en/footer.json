@@ -71,7 +71,17 @@
     {
       "type": "article",
       "title": " ",
-      "text": "<br><i class=\"far fa-copyright\"></i> Casa Petri | <a href='tel:(+4)0743188186'target='_blank'><i class=\"fas fa-phone fa-rotate-90\"></i> (+4)0743188186</a> | <a href='mailto:casaPetriRosiaMontana@gmail.com' target='_blank'> <i class=\"fas fa-envelope\"></i> casaPetriRosiaMontana@gmail.com</a> | <a href='https://g.page/casapetrirosiamontana' target='_blank'> <i class=\"fas fa-map-marker-alt\"></i> Roșia Montană 331A, Transilvania</a> <br>We use cookies and other technologies to enhance your experience on this site. By continuing navigating on this site you confirm the acceptance of our <a href='en/privacyPolicy'> Privacy Policy</a><br><br>"
+      "text": "<br><i class=\"far fa-copyright\"></i> Casa Petri | <a href='tel:(+4)0743188186'target='_blank'><i class=\"fas fa-phone fa-rotate-90\"></i> (+4)0743188186</a> | <a href='mailto:casaPetriRosiaMontana@gmail.com' target='_blank'> <i class=\"fas fa-envelope\"></i> casaPetriRosiaMontana@gmail.com</a> | <a href='https://g.page/casapetrirosiamontana' target='_blank'> <i class=\"fas fa-map-marker-alt\"></i> Roșia Montană 331A, Transilvania</a> | <a href='en/privacyPolicy'><i class=\"fas fa-lock\"></i> Privacy Policy</a><br><br>"
+    },
+    {
+      "type": "dialog",
+      "closeButtonText": "Got it",
+      "sections": [
+        {
+          "type": "article",
+          "text": "We use cookies to enhance your experience on this site. <a href='en/privacyPolicy'> See more</a>"
+        }
+      ]
     }
   ]
 }
