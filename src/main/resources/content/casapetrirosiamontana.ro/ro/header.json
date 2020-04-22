@@ -44,5 +44,9 @@
       "link": "en",
       "textOnMouseOver": "switch to english"
     }
-  ]
+  ],
+  "welcomeMessage": {
+    "text": "Prin continuarea navigării accepți <a href='ro/privacyPolicy'>Politica de confidiențalitate</a>",
+    "backgroundColor": "yellowgreen"
+  }
 }

@@ -45,5 +45,9 @@
       "link": "ro",
       "textOnMouseOver": "schimbă în română"
     }
-  ]
+  ],
+  "welcomeMessage": {
+    "text": "By continuing navigating you accept our <a href='en/privacyPolicy'>Privacy Policy</a>",
+    "backgroundColor": "yellowgreen"
+  }
 }
