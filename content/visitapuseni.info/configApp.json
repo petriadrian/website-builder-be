@@ -1,0 +1,12 @@
+{
+  "defaultLanguage": "ro",
+  "style": {
+    "primaryColor": "green",
+    "secondColor": "darkslategrey"
+  },
+  "googleAnalyticsTrackingId": "UA-166913329-1",
+  "facebook": {
+    "welcomeMessage": "Salut, te pot ajuta? Hello, can I help?",
+    "pageId": "754321564607545"
+  }
+}

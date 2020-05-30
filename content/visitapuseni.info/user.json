@@ -1,0 +1,10 @@
+{
+  "name": "Casa Petri",
+  "email": "casapetrirosiamontana@gmail.com",
+  "imageUrl": "",
+  "emailServer": {
+    "host": "smtp.gmail.com",
+    "port": "587",
+    "password": "limzzcmcxctolvhd"
+  }
+}
