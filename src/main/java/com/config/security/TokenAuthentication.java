@@ -1,0 +1,63 @@
+package com.config.security;
+
+import lombok.Data;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.GrantedAuthority;
+import com.models.user.User;
+
+import java.util.Collection;
+
+@Data
+public class TokenAuthentication implements Authentication {
+
+    private User principal;
+    private String token;
+
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        return null;
+    }
+
+    @Override
+    public Object getCredentials() {
+        return null;
+    }
+
+    @Override
+    public Object getDetails() {
+        return null;
+    }
+
+    @Override
+    public Object getPrincipal() {
+        return principal;
+    }
+
+    @Override
+    public boolean isAuthenticated() {
+        return true;
+    }
+
+    @Override
+    public void setAuthenticated(boolean b) throws IllegalArgumentException {
+
+    }
+
+    @Override
+    public String getName() {
+        return principal.getName();
+    }
+
+    public String getToken() {
+        return token;
+    }
+
+    public TokenAuthentication setToken(String token) {
+        this.token = token;
+        return this;
+    }
+
+    public void setPrincipal(User principal) {
+        this.principal = principal;
+    }
+}

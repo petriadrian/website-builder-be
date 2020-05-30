@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+cors:
+  methods: GET, POST, OPTIONS, PUT, PATCH, DELETE
+  headers: Origin, Content-Type, Accept, Authorization, Access-Control-Allow-Headers, X-Requested-With, Access-Control-Request-Method, Access-Control-Request-Headers
+  
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 398995048068-1fgqjmaom4n81bubchs794fn6m9eo6vs.apps.googleusercontent.com
+            client-secret: h9fEm0ZBcAjJdXo_e97G3Vee

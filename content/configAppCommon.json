@@ -1,0 +1,82 @@
+{
+  "sectionStructures": {
+    "siteBody": {
+      "article": {
+        "name": "Article",
+        "type": "article",
+        "id": "",
+        "title": "New article Title",
+        "text": "New article Text",
+        "media": "",
+        "buttons": [
+          {
+            "text": "New Button",
+            "link": ""
+          }
+        ]
+      },
+      "cards": {
+        "name": "Cards",
+        "type": "cards",
+        "items": [
+          {
+            "title": "New Card",
+            "text": "",
+            "link": "",
+            "media": "https://www.lyon-ortho-clinic.com/files/cto_layout/img/placeholder/camera.jpg"
+          }
+        ]
+      },
+      "form": {
+        "name": "Form",
+        "type": "form",
+        "submitButton": "Send",
+        "emailSubject": "Hy",
+        "successMessage": "Thank you",
+        "errorMessage": "Error, contact us on email",
+        "fields": [
+          {
+            "label": "New field",
+            "key": "",
+            "type": "text",
+            "textAbove": "",
+            "model": "",
+            "validations": {
+              "requiredErrorMessage": "",
+              "regex": "",
+              "regexErrorMessage": ""
+            },
+            "options": ""
+          }
+        ]
+      },
+      "carousel": {
+        "name": "Carousel",
+        "type": "carousel",
+        "items": [
+          {
+            "name": "Article",
+            "type": "article",
+            "id": "",
+            "title": "New slide",
+            "text": "",
+            "media": "https://www.lyon-ortho-clinic.com/files/cto_layout/img/placeholder/camera.jpg",
+            "buttons": []
+          }
+        ]
+      }
+    },
+    "siteHeader": {
+      "button": {
+        "text": "New Button",
+        "link": ""
+      },
+      "welcomeMessage": {
+        "key": "",
+        "title": "New Message",
+        "text": "Message",
+        "backgroundColor": "yellow"
+      }
+    }
+  }
+}

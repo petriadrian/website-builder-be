@@ -5,8 +5,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.2.6.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<version>2.3.0.RELEASE</version>
+		<relativePath/>
 	</parent>
 	<groupId>website.builder.be</groupId>
 	<artifactId>website-builder-be</artifactId>
@@ -61,6 +61,11 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>com.google.api-client</groupId>
+			<artifactId>google-api-client</artifactId>
+			<version>1.30.9</version>
 		</dependency>
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
