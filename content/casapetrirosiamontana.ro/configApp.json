@@ -1,8 +1,8 @@
 {
   "defaultLanguage": "ro",
   "style": {
-    "primaryColor": "green",
-    "secondColor": "darkslategrey"
+    "primaryColor": "#67b868",
+    "secondColor": "#304f4f"
   },
   "googleAnalyticsTrackingId": "UA-166913329-1",
   "facebook": {
