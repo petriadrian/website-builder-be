@@ -1,9 +1,18 @@
 # Deploy on digital ocean server
-````
+```
 ssh root@167.99.196.145
 cd website-builder/website-builder-be
+```
+* Check if changes to content were made and add them locally
+```
 git pull
-
+git status
+git add *
+gitt commit -m "content update"
+git push
+```
+* Connect to Screen
+```
 # check if any screen session open
 screen -ls
 #ATACH# to existing screen session with
