@@ -1,17 +1,15 @@
 {
-  "specific": {
-    "defaultLanguage": "ro",
-    "style": {
-      "primaryColor": "#1e821f",
-      "secondColor": "#304f4f"
-    },
-    "googleAnalyticsTrackingId": "UA-166913329-1",
-    "facebook": {
-      "welcomeMessage": "Salut, te pot ajuta? Hy, can I help?",
-      "pageId": "754321564607545"
-    }
+  "defaultLanguage": "ro",
+  "style": {
+    "primaryColor": "#1e821f",
+    "secondColor": "#304f4f"
   },
-  "common": {
+  "googleAnalyticsTrackingId": "UA-166913329-1",
+  "facebook": {
+    "welcomeMessage": "Salut, te pot ajuta? Hy, can I help?",
+    "pageId": "754321564607545"
+  },
+  "configAppCommon": {
     "sectionStructures": {
       "siteBody": {
         "article": {

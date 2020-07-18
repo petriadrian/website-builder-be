@@ -1,6 +1,6 @@
 {
   "areaConfig": {
-    "lang": "ro",
+    "lang": "en",
     "path": "experiences"
   },
   "metadata": {
@@ -12,18 +12,10 @@
     {
       "type": "article",
       "id": "",
-      "title": "Why you should visit Roșia Montana, Transylvania?",
-      "text": "<i class=\"fas fa-chevron-down\"></i>",
+      "title": "Why you should visit Roșia Montana?",
+      "text": "<br>We are located in Roșia Montana, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. See bellow what cand you do and visit durring your stay in Roșia.",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/hu-N_PNbbQt7qCvuavLb3gZHIrinHGZP2LLQzYygREipp4L3eZkMBz1KuuGtn4WOZKmafnoIxdf43H0uINZymY8bHGfTAcZeQ-7t0j_qtr7-n0mQWa_75rbBohAjFqEDkmtK0BGfSAwy20JOJasfwBWULRzvDXMu33Ne1yXWOoQFKbBO5uGvF6K_mWt3BkazRNMHwvmUeyzDAHPft4qfnrD0eNU41j7cS88Cg0Bwd3-Mn6S2yGUiguem4ShOnbWmYGwkGWILqp-J19JX_YQ0ZGf4pZpSuDtLR1uEB_VH5vzq4BDaNVLGSGpbV19MTEUWG3ICTMFKBB4zf3QNZoOwtkXyOMZpvZRCBRw8BXjkRCJJu9mfpQqskpHrVS-FpacfQy7CU4rdlsqgSIil2LQKk7K7xYfu_J6Q8R0t_DhhT3A6pWU7aTQuRd7tYdnKtmEjOS4m9oqKVSCQjh0YDWyc7Ts0MZGHmWDP3c4RJQ-9yutbtypszrNv9_HeGqLqK8S2U0HW9Y1rnINT9N_5oOalpjRZJWd77HqhR0KpazyTX0QY-UyRaNFNJJok0cBWZHF2PT9AY1GlDm6575UAL4b3nhpCnzbLY9v1SolsTkGvrR6VxUsSt6GAY4QFrw8p2mISSELVgk4m8tRtFvOxR4W0ZXfA9E0TEw2oehMGo9H52loCihtIE-nHFzS11wdgDx4v0eeNuWu1fC3K1MyoQdgW5OBS8z0LH4g4952NFkzuRV3i0xcv=w1700-h1000-no"
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "<br>We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. Because of the reasons described below we consider that Roșia is not just a holiday, is an experience.",
-      "buttons": [],
-      "media": ""
     },
     {
       "type": "article",

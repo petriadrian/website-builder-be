@@ -8,7 +8,7 @@ public class Field {
     private String key;
     private String type;
     private String textAbove;
-    private String model;
+    private Model model;
     private Validation validations;
     private String options;
 }

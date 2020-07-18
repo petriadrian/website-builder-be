@@ -37,14 +37,15 @@
         "fields": [
           {
             "label": "New field",
-            "key": "",
+            "key": "value",
             "type": "text",
             "textAbove": "",
-            "model": "",
+            "model": {
+              "value": ""
+            },
             "validations": {
-              "requiredErrorMessage": "",
               "regex": "",
-              "regexErrorMessage": ""
+              "errorMessage": ""
             },
             "options": ""
           }

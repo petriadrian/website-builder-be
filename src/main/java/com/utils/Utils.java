@@ -34,4 +34,12 @@ public class Utils {
         return domain.startsWith("www.") ? domain.substring(4) : domain;
     }
 
+    public static String getHostname(String path) {
+        return path.split("/")[0];
+    }
+
+    public static String getHostnameWithLang(String path) {
+        return path.split("/")[0] + "/" + path.split("/")[1];
+    }
+
 }

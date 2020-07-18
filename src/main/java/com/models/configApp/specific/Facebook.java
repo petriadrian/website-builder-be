@@ -1,4 +1,4 @@
-package com.models.configApp;
+package com.models.configApp.specific;
 
 import lombok.Data;
 

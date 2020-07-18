@@ -4,7 +4,6 @@ import lombok.*;
 
 @Data
 public class Validation {
-    private String requiredErrorMessage;
     private String regex;
-    private String regexErrorMessage;
+    private String errorMessage;
 }

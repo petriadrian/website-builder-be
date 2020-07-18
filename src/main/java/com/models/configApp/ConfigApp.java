@@ -1,13 +1,11 @@
 package com.models.configApp;
 
-import com.models.configApp.common.ConfigAppCommon;
+import com.models.configApp.common.Common;
+import com.models.configApp.specific.Specific;
 import lombok.Data;
 
 @Data
 public class ConfigApp {
-    String defaultLanguage;
-    Style style;
-    String googleAnalyticsTrackingId;
-    Facebook facebook;
-    ConfigAppCommon configAppCommon;
+    private Specific specific;
+    private Common common;
 }

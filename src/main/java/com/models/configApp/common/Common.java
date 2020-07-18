@@ -4,6 +4,6 @@ import com.models.configApp.common.sectionStructures.SectionStructures;
 import lombok.Data;
 
 @Data
-public class ConfigAppCommon {
+public class Common {
     SectionStructures sectionStructures;
 }

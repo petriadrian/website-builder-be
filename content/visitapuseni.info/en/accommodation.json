@@ -13,24 +13,34 @@
       "type": "article",
       "id": "",
       "title": "Stay in a cosy house at Rosia Montana",
-      "text": "<i class=\"fas fa-chevron-down\"></i>",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/aO8c8Jd9KDhmgBZH8onb3z-KgZkfyeosHSD29aTIW4bwFsmygAS_c9o9rO8GeTrzRgJchkOXzaMBdIryGU-o5TLqEslgoCocXRf1O4UI3piaxvQIp3V13KwDpaezrCHvGPMipE25z7AGtny3HyG0AhrqLuKnEGur72_-LBHPvfWoyvF-lqIbrUn25F3rQrN0cD6LAJkuwHWKAPQzKjDeQgCLrhi_M1iB8gItLPSwFNQQrrltF_6_CvdAdzNitQDNMYiuhRrHzHbHrwhb7t7OlHx7Elldnb8o0xYVdNWp81nfaB4uzEIArV5SWTHE6XOAweP1XSEzy6zl-M5G_5zrQFmAi6w5yqhIrs8jGkk9IMQl4dLVLl5S7CydPlTXw-gj0YayQkWb87tN3M761H6lutq4c5V7w3vG7iAowFHkxl_K0fmSviywacn_AUMRK_FkuGfUQx0fFG_vhRC1yVhVnEyPbzHmQV06tpKyLogbo6xj_8SqPAdrpT37ua2LjJokhgkpgjl14yHoCnfXJbDn7VSfzgh3E7672cNyToNoPGCn-x2a41uncv13vdwyAXTeb-9_UEEkdcG5nXWw8j8HTM6AT7XE3VF62_GltqIB5cEy-6HZ_b6oCcCHw0vJyRCF6xGJCoDbxy-rXCG0EmpXNvQLKtM_2r_CPtP0MRSYfDiIrw2mh0xaXuPYPb80a5dT37XPrno5GS5PyYKoP4affhL_sejZdvb9cV-qeqnNqN5UwdC-=w806-h496-no"
-    },
-    {
-      "type": "article",
-      "id": "accommodation",
-      "title": "<br><i class='fa fa-bed'></i> Accommodation",
-      "text": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then our grandparents who worked in mining industry used it for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves and we added new bathrooms and kitchen so now we offer accommodation, guided tours and bikes. The rooms (houses) have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif.",
-      "buttons": [],
-      "media": ""
+      "text": "We are located in the historic center of Rosia Montana where our grandparents lived and worked as gold miners. We preserved the old charm of the house, but we also integrated nowaday utilities so now we offer accommodation and toursitic services.",
+      "buttons": [
+        {
+          "text": "Books house",
+          "link": "en/accommodation#booksHouse"
+        },
+        {
+          "text": "Little house",
+          "link": "en/accommodation#littleHouse"
+        },
+        {
+          "text": "Tarnat House",
+          "link": "en/accommodation#tarnatHouse"
+        }
+      ],
+      "media": "https://lh3.googleusercontent.com/l0Cpdk3zmoLKvjDfF2hlfnJ08CH0am0ATWIvbMiYamrQcYwCvzgqx9WdKdzlqq4vnxYODj5d6epXOCUX3N1YQdjKVg9vwuuN6janSirtqSoeuEKCRwIs44PSJPqlDm1Rk861JOA5Hz7393_zH6dT42zeFZpAr54WBb-a-8wK-gdR3GMRYQRuW1xLh9g6g6Taf5ZMw1WQ14W-qV8p0CVxDQhxJjL7c3_fQx2R6kJW9X5DI2jG7UZeQp6tE5lwsVi-yemivN9L0I65XLszZlA9Ep_1qbuK2NBLQDIF7AxEiLOiov8O6Q-_NCWDO80b3G8SaYjvc5oorylZNJAfEyjQj0m4H-x-3ODP67O-3hQnknxPhzv0nU-O8ru-788gCkotv3C4zw4DEXTinXdrEoP4GueA-wPI6Q2Ha0Y1eWC6TBqve6-6VlDBwUql_aENHkEg_kNXy1T6rLya-9UpFKWYk4ZTSwVupSL9S8Rov9J0RwPbWSmo2lRKJzh7g3A81Mwxw2e6mNp_nGOXxah9EsEcqbQxIbqzYp_Z_Q4v_M-Ceejo-l9hmew3Ixo87cki45oTBahwVoHGXfkbZEwRRBSF8ZsFcZqzrOUlsjAYccLHLTpFaAVwEPoepdKBcoZFD1H_vmQAnJGpNSiWs3uMB0ZBxBc1FSZykENhkAK1oVmoxXjZces5UfdPh6YXCkUbznZxX3sB1ArRqnF2HXk3Jmn89FrjohZr3Sf1qxxGij6p4Cap88pr=w873-h558-no"
     },
     {
       "type": "article",
       "id": "booksHouse",
       "title": "<br><i class='fas fa-book'></i> Books House",
-      "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here can stay maximum <i class='fa fa-male'></i> 4 people (bunk beds) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo + <i class='fas fa-bicycle'></i> sleight/bikes to rent<br><br>",
-      "buttons": [],
+      "text": "This is a historic house with 1 meter wide stone walls. In the past here was a bank where the miners changed the extracted gold in money and dynamite. <br>- can stay maximum <i class='fa fa-male'></i> <b>4 people</b> (bunk beds) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 200lei/night<br>",
+      "buttons": [
+        {
+          "text": "Book the Books House",
+          "link": "en/accommodation#bookings"
+        }
+      ],
       "media": ""
     },
     {
@@ -51,18 +61,15 @@
     },
     {
       "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/l0Cpdk3zmoLKvjDfF2hlfnJ08CH0am0ATWIvbMiYamrQcYwCvzgqx9WdKdzlqq4vnxYODj5d6epXOCUX3N1YQdjKVg9vwuuN6janSirtqSoeuEKCRwIs44PSJPqlDm1Rk861JOA5Hz7393_zH6dT42zeFZpAr54WBb-a-8wK-gdR3GMRYQRuW1xLh9g6g6Taf5ZMw1WQ14W-qV8p0CVxDQhxJjL7c3_fQx2R6kJW9X5DI2jG7UZeQp6tE5lwsVi-yemivN9L0I65XLszZlA9Ep_1qbuK2NBLQDIF7AxEiLOiov8O6Q-_NCWDO80b3G8SaYjvc5oorylZNJAfEyjQj0m4H-x-3ODP67O-3hQnknxPhzv0nU-O8ru-788gCkotv3C4zw4DEXTinXdrEoP4GueA-wPI6Q2Ha0Y1eWC6TBqve6-6VlDBwUql_aENHkEg_kNXy1T6rLya-9UpFKWYk4ZTSwVupSL9S8Rov9J0RwPbWSmo2lRKJzh7g3A81Mwxw2e6mNp_nGOXxah9EsEcqbQxIbqzYp_Z_Q4v_M-Ceejo-l9hmew3Ixo87cki45oTBahwVoHGXfkbZEwRRBSF8ZsFcZqzrOUlsjAYccLHLTpFaAVwEPoepdKBcoZFD1H_vmQAnJGpNSiWs3uMB0ZBxBc1FSZykENhkAK1oVmoxXjZces5UfdPh6YXCkUbznZxX3sB1ArRqnF2HXk3Jmn89FrjohZr3Sf1qxxGij6p4Cap88pr=w873-h558-no"
-    },
-    {
-      "type": "article",
       "id": "littleHouse",
       "title": "<br><i class='fas fa-home'></i> Little House",
-      "text": "This place was the old summer house of our grandparents where can stay maximum <i class='fa fa-male'></i> 3 people (one double bed + one single) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> well equipped kitchen + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo + <i class='fas fa-bicycle'></i> sleight/bikes to rent <br><br>",
-      "buttons": [],
+      "text": "This place was the old summer house of our grandparents that became a place with everything you need to make you feel like home. <br>- can stay maximum <i class='fa fa-male'></i> <b>3 people</b> (one double bed + one single) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchen</b> (fidge, stove, microwave, dishes, cutlery) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 190lei/night<br>",
+      "buttons": [
+        {
+          "text": "Book the Little House",
+          "link": "en/accommodation#bookings"
+        }
+      ],
       "media": ""
     },
     {
@@ -83,10 +90,24 @@
     },
     {
       "type": "article",
+      "name": "Article",
+      "id": "",
+      "title": "",
+      "text": "",
+      "media": "https://lh3.googleusercontent.com/pw/ACtC-3c7kswImoCfBsPVa_t415yyA4CrKrgm7mgVBO4nXg2ZQCeucr7W7LunWR6tBVzLE5Pwz6dktbWduoMaD9FoCFGllIViAR1bsVvtpdyZmS55OjEr7J9_gs8ToM8W8sw09Sa1QoG_9DFnWTMqRutJXQYDbg=w1674-h1396-no?authuser=0",
+      "buttons": []
+    },
+    {
+      "type": "article",
       "id": "tarnatHouse",
       "title": "<br><i class='fas fa-vihara'></i> Tarnat house",
-      "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Here can stay maximum <i class='fa fa-male'></i> 6 people (each room has 1 double + 1 single bed) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo/barbecue + <i class='fas fa-bicycle'></i> sleight/bikes to rent <br><br>",
-      "buttons": [],
+      "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. <br>- can stay maximum <i class='fa fa-male'></i> <b>6 people</b> (each room has 1 double + 1 single bed) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 260lei/night<br>",
+      "buttons": [
+        {
+          "text": "Book the Tarnat House",
+          "link": "en/accommodation#bookings"
+        }
+      ],
       "media": ""
     },
     {
@@ -115,17 +136,36 @@
     },
     {
       "type": "article",
+      "name": "Article",
+      "id": "",
+      "title": "Common areas",
+      "text": "",
+      "media": "",
+      "buttons": []
+    },
+    {
+      "type": "article",
+      "name": "Article",
       "id": "",
       "title": "",
       "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/eTd3EIIR_JuxlcXmZM0oR_6aiYk7wqGtlMfoCGUOr12CHF84vhLizh0_rsGa3NuJk-zcPRihGfHnua887ENiP4Ds6k3HFXquJuqksNP-tFtjd-pLp_7CcnivNGMALaziWjCaJ1x7Ukm1LS0T1XDtoLrwKa939NzdoyBKOua7Vk4jwQqkALelNBVo58zTUAvZok7hKFt-KEbPDNPxEUbThTJSq_5bWhRMCMocBDT3WtmHT4dLjjzKFC2HSjOZrgWOqbHDno8bBTav96iIyyuhgmzfFBcIrZewlIV_P-GJErnJB12kMLgoSItuy2RFZLO6uXOKya16X_jahXq0i4UYct_C9PJw4hqFQwxMyEueBmGMw9e58Z2zeDHC0r3kaxhPBX18p66mUBVKBy4jFPE98uXNszxrvTZguHoCUJyOtCds00uyjuMg9ctJKaoC_L7JVarUA0ZW36bjn-8jAA-Rpk_yC802pR26TYpi7AXZESATk_-C8Xs7MJSuvTdymYCyUyPJ3uz9kfBMiOER9_hjlVXBITFs3ED768Ke1x14p46o4XQWKPGRQjbW-KVEBqydGOjcwodDslD8qifwxKTPQtxoIQTq1yaL18ArhC1TEgkB28BWHffraAFwb3Qxszkf1LL79ug_OJjgTspKLVRkxunVOoMV_6K2X3Uu2QgVzkNEFBI2sZf9wRsDJDC5avBDn2qwze8sbM8KpLG5eGPImqdRn_6_vhDL_q0uIkAqJ5zlgsVm=w949-h558-no"
+      "media": "https://lh3.googleusercontent.com/aO8c8Jd9KDhmgBZH8onb3z-KgZkfyeosHSD29aTIW4bwFsmygAS_c9o9rO8GeTrzRgJchkOXzaMBdIryGU-o5TLqEslgoCocXRf1O4UI3piaxvQIp3V13KwDpaezrCHvGPMipE25z7AGtny3HyG0AhrqLuKnEGur72_-LBHPvfWoyvF-lqIbrUn25F3rQrN0cD6LAJkuwHWKAPQzKjDeQgCLrhi_M1iB8gItLPSwFNQQrrltF_6_CvdAdzNitQDNMYiuhRrHzHbHrwhb7t7OlHx7Elldnb8o0xYVdNWp81nfaB4uzEIArV5SWTHE6XOAweP1XSEzy6zl-M5G_5zrQFmAi6w5yqhIrs8jGkk9IMQl4dLVLl5S7CydPlTXw-gj0YayQkWb87tN3M761H6lutq4c5V7w3vG7iAowFHkxl_K0fmSviywacn_AUMRK_FkuGfUQx0fFG_vhRC1yVhVnEyPbzHmQV06tpKyLogbo6xj_8SqPAdrpT37ua2LjJokhgkpgjl14yHoCnfXJbDn7VSfzgh3E7672cNyToNoPGCn-x2a41uncv13vdwyAXTeb-9_UEEkdcG5nXWw8j8HTM6AT7XE3VF62_GltqIB5cEy-6HZ_b6oCcCHw0vJyRCF6xGJCoDbxy-rXCG0EmpXNvQLKtM_2r_CPtP0MRSYfDiIrw2mh0xaXuPYPb80a5dT37XPrno5GS5PyYKoP4affhL_sejZdvb9cV-qeqnNqN5UwdC-=w806-h496-no",
+      "buttons": []
+    },
+    {
+      "type": "article",
+      "name": "Article",
+      "id": "",
+      "title": "",
+      "text": "",
+      "media": "https://lh3.googleusercontent.com/pw/ACtC-3fWd5TveoXz7pyaX4aXiPzPfLeEumuc_2XdKHhEywbGdVq33GjTuN8rjiB18sYeZ7Rdq7mHdmx9YETe8Z0lpRxV1wPJdUZCC1yRFIE39T90wqsFCsX1GffwhoiZ-E-PFeOQ1UbNmkzlKvqzw7nUUwe3zA=w1862-h1396-no?authuser=0",
+      "buttons": []
     },
     {
       "type": "article",
       "id": "bookings",
       "title": "<br><i class='far fa-calendar-check'></i> Bookings",
-      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to stay in a certain room, to rent bikes or to organize a <a href='en/experiences#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='en/experiences'>experiences</a> page. The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
+      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to rent bikes or to organize a <a href='en/experiences#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='en/experiences'>experiences</a> page. The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
       "buttons": [],
       "media": ""
     },
@@ -143,9 +183,8 @@
           "textAbove": "",
           "model": "",
           "validations": {
-            "requiredErrorMessage": "Email needed",
             "regex": "^[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,4}$",
-            "regexErrorMessage": "Invalid Email"
+            "errorMessage": "Invalid Email"
           },
           "options": ""
         },
@@ -156,9 +195,8 @@
           "textAbove": "",
           "model": "",
           "validations": {
-            "requiredErrorMessage": "Telefon needed",
             "regex": "^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\\s\\./0-9]*$",
-            "regexErrorMessage": "Invalid Phone"
+            "errorMessage": "Invalid Phone"
           },
           "options": ""
         },
@@ -169,9 +207,8 @@
           "model": "",
           "textAbove": "",
           "validations": {
-            "requiredErrorMessage": "Data sosiri necesară",
             "regex": "",
-            "regexErrorMessage": ""
+            "errorMessage": "Data sosiri necesară"
           },
           "options": ""
         },
@@ -182,22 +219,20 @@
           "textAbove": "",
           "model": "",
           "validations": {
-            "requiredErrorMessage": "Data plecării necesară",
             "regex": "",
-            "regexErrorMessage": ""
+            "errorMessage": "Data plecării necesară"
           },
           "options": ""
         },
         {
-          "label": "Room type and prices",
+          "label": "Accommodation type",
           "key": "room",
           "type": "select",
           "model": "",
           "textAbove": "",
           "validations": {
-            "requiredErrorMessage": "Room type needed",
             "regex": "",
-            "regexErrorMessage": ""
+            "errorMessage": "Room type needed"
           },
           "options": "Little house (max 3pers) 180lei/night, Books House (max 4pers) 200lei/night, Tarnat house with 2 bedrooms (max 6pers) 260lei/night"
         },

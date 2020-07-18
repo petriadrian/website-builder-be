@@ -44,10 +44,10 @@ public class SendEmail {
             emailBody.append("<b>")
                     .append(field.getLabel())
                     .append(":</b> ")
-                    .append(field.getModel())
+                    .append(field.getModel().getValue())
                     .append("<br>");
             if (field.getType().equalsIgnoreCase("email")) {
-                mimeMessageHelper.setReplyTo(field.getModel());
+                mimeMessageHelper.setReplyTo(field.getModel().getValue());
             }
         }
         return emailBody.toString();
