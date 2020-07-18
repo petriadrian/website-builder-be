@@ -237,7 +237,7 @@
           "key": "value",
           "type": "select",
           "model": {
-            "value": "Căsuța din grădină (max 3pers) 190lei/noapte"
+            "value": ""
           },
           "textAbove": "",
           "validations": {

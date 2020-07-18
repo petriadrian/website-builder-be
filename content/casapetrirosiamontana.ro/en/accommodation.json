@@ -178,10 +178,12 @@
       "fields": [
         {
           "label": "Email",
-          "key": "email",
+          "key": "value",
           "type": "email",
           "textAbove": "",
-          "model": "",
+          "model": {
+            "value": ""
+          },
           "validations": {
             "regex": "^[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,4}$",
             "errorMessage": "Invalid Email"
@@ -190,10 +192,12 @@
         },
         {
           "label": "Phone",
-          "key": "tel",
+          "key": "value",
           "type": "tel",
           "textAbove": "",
-          "model": "",
+          "model": {
+            "value": ""
+          },
           "validations": {
             "regex": "^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\\s\\./0-9]*$",
             "errorMessage": "Invalid Phone"
@@ -202,33 +206,39 @@
         },
         {
           "label": "Arrival date",
-          "key": "arrival",
+          "key": "value",
           "type": "date",
-          "model": "",
+          "model": {
+            "value": ""
+          },
           "textAbove": "",
           "validations": {
             "regex": "",
-            "errorMessage": "Data sosiri necesară"
+            "errorMessage": "Required"
           },
           "options": ""
         },
         {
-          "label": "Data plecării",
-          "key": "departure",
+          "label": "Leaving date",
+          "key": "value",
           "type": "date",
           "textAbove": "",
-          "model": "",
+          "model": {
+            "value": ""
+          },
           "validations": {
             "regex": "",
-            "errorMessage": "Data plecării necesară"
+            "errorMessage": "Required"
           },
           "options": ""
         },
         {
           "label": "Accommodation type",
-          "key": "room",
+          "key": "value",
           "type": "select",
-          "model": "",
+          "model": {
+            "value": ""
+          },
           "textAbove": "",
           "validations": {
             "regex": "",
@@ -238,14 +248,17 @@
         },
         {
           "label": "Other details? Write here...",
-          "key": "others",
+          "key": "value",
           "type": "textarea",
-          "name": "others",
-          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-          "placeholder": "Other details? Write here...",
-          "rows": 2,
-          "maxChars": 500,
-          "required": false
+          "textAbove": "",
+          "model": {
+            "value": ""
+          },
+          "validations": {
+            "regex": "",
+            "errorMessage": ""
+          },
+          "options": ""
         }
       ]
     },
