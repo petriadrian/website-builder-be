@@ -34,7 +34,7 @@
       "type": "article",
       "id": "booksHouse",
       "title": "<br><i class='fas fa-book'></i> Books House",
-      "text": "This is a historic house with 1 meter wide stone walls. In the past here was a bank where the miners changed the extracted gold in money and dynamite. <br>- can stay maximum <i class='fa fa-male'></i> <b>4 people</b> (bunk beds) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 200lei/night<br>",
+      "text": "This is a historic house with 1 meter wide stone walls. In the past here was a bank where the miners changed the extracted gold in money and dynamite. <br>- can stay maximum <i class='fa fa-male'></i> <b>4 people</b> (bunk beds) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 250lei/night<br>",
       "buttons": [
         {
           "text": "Book the Books House",
@@ -63,7 +63,7 @@
       "type": "article",
       "id": "littleHouse",
       "title": "<br><i class='fas fa-home'></i> Little House",
-      "text": "This place was the old summer house of our grandparents that became a place with everything you need to make you feel like home. <br>- can stay maximum <i class='fa fa-male'></i> <b>3 people</b> (one double bed + one single) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchen</b> (fidge, stove, microwave, dishes, cutlery) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 190lei/night<br>",
+      "text": "This place was the old summer house of our grandparents that became a place with everything you need to make you feel like home. <br>- can stay maximum <i class='fa fa-male'></i> <b>3 people</b> (one double bed + one single) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchen</b> (fidge, stove, microwave, dishes, cutlery) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 250lei/night<br>",
       "buttons": [
         {
           "text": "Book the Little House",
@@ -101,7 +101,7 @@
       "type": "article",
       "id": "tarnatHouse",
       "title": "<br><i class='fas fa-vihara'></i> Tarnat house",
-      "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. <br>- can stay maximum <i class='fa fa-male'></i> <b>6 people</b> (each room has 1 double + 1 single bed) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 280 lei/night<br>",
+      "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. <br>- can stay maximum <i class='fa fa-male'></i> <b>6 people</b> (each room has 1 double + 1 single bed) <br>- <i class='fa fa-shower'></i> <b>private bathroom</b> (shower, towels, soap, electric boiler) <br>- <i class='fas fa-utensils'></i> <b>private kitchenette</b> (fidge, microwave, dishes, cutlery, kettle) <br>- <i class='fa fa-wifi'></i> wifi + <i class='fa fa-book'></i> library/board games <br>- <i class='fas fa-fire'></i> heating with terracotta stove <br>- <i class='fas fa-leaf'></i> private entrance from the green yard with hammock/gazebo <br>- <i class='fas fa-bicycle'></i> sleight/bikes to rent<br> <b>Price</b> 350 lei/night<br>",
       "buttons": [
         {
           "text": "Book the Tarnat House",
@@ -244,7 +244,7 @@
             "regex": "",
             "errorMessage": "Room type needed"
           },
-          "options": "Little house (max 3pers) 250lei/night, Books House (max 4pers) 250lei/night, Tarnat house with 2 bedrooms (max 6pers) 300 lei/night"
+          "options": "Little house (max 3pers) 250lei/night, Books House (max 4pers) 250lei/night, Tarnat house with 2 bedrooms (max 6pers) 350 lei/night"
         },
         {
           "label": "Other details? Write here...",

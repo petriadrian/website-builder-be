@@ -34,7 +34,7 @@
       "type": "article",
       "id": "booksHouse",
       "title": "<br><i class='fas fa-book'></i> Casa Cărților",
-      "text": "Acesta este o casă de patrimoniu cu pereți de piatră de un metru grosime. Înainte să fi locuit bunicii aici, acest spațiu era un sediu de bancă unde minerii schimbau aurul extras în bani și dinamită. <br>- încap maxim <i class='fa fa-male'></i> <b>4 pers</b> (2 paturi etajate) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>chicinetă privată</b> (frigider, cuptor cu microunde, vesela, tacamuri, fierbător) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 200 lei/noapte<br>",
+      "text": "Acesta este o casă de patrimoniu cu pereți de piatră de un metru grosime. Înainte să fi locuit bunicii aici, acest spațiu era un sediu de bancă unde minerii schimbau aurul extras în bani și dinamită. <br>- încap maxim <i class='fa fa-male'></i> <b>4 pers</b> (2 paturi etajate) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>chicinetă privată</b> (frigider, cuptor cu microunde, vesela, tacamuri, fierbător) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 250lei/noapte<br>",
       "buttons": [
         {
           "text": "Rezervă Casa Cărților",
@@ -63,7 +63,7 @@
       "type": "article",
       "id": "littleHouse",
       "title": "<br><i class='fas fa-home'></i> Căsuța din grădină",
-      "text": "Casuța din grădină era vechea bucătărie de vară a bunicilor pe care am transformat-o într-un un spațiu în care o să găsiți tot ce aveți nevoie. <br>- încap maxim <i class='fa fa-male'></i> <b>3 persoane</b> (un pat dublu + un pat simplu) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>bucătărie privată</b> (frigider, aragaz, chiuvetă, cuptor cu microunde, vesela, tacamuri) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 190 lei/noapte<br>",
+      "text": "Casuța din grădină era vechea bucătărie de vară a bunicilor pe care am transformat-o într-un un spațiu în care o să găsiți tot ce aveți nevoie. <br>- încap maxim <i class='fa fa-male'></i> <b>3 persoane</b> (un pat dublu + un pat simplu) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>bucătărie privată</b> (frigider, aragaz, chiuvetă, cuptor cu microunde, vesela, tacamuri) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 250 lei/noapte<br>",
       "buttons": [
         {
           "text": "Rezervă Casuța din grădină",
@@ -101,7 +101,7 @@
       "type": "article",
       "id": "tarnatHouse",
       "title": "<br><i class='fas fa-vihara'></i> Casa din târnaț",
-      "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. <br>- încap maxim <i class='fa fa-male'></i> <b>6 persoane</b> (fiecare cameră are un pat dublu și unul simplu) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>chicinetă privată</b> (frigider, cuptor cu microunde, vesela, tacamuri, fierbător) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 280 lei/noapte<br>",
+      "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. <br>- încap maxim <i class='fa fa-male'></i> <b>6 persoane</b> (fiecare cameră are un pat dublu și unul simplu) <br>- <i class='fa fa-shower'></i> <b>baie privată</b> (duș, prosoape, săpun, boiler electric) <br>- <i class='fas fa-utensils'></i> <b>chicinetă privată</b> (frigider, cuptor cu microunde, vesela, tacamuri, fierbător) <br>- <i class='fa fa-wifi'></i> <b>wifi</b> + <i class='fa fa-book'></i> bibliotecă/board games <br>- <i class='fas fa-fire'></i> încălzire cu teracotă lemne <br>- <i class='fas fa-leaf'></i> intrare privată din curtea verde cu hamac/foișor <br>- <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br> <b>Preț</b> 350 lei/noapte<br>",
       "buttons": [
         {
           "text": "Rezervă Casa din Târnaț",
@@ -244,7 +244,7 @@
             "regex": "",
             "errorMessage": "Tipul camerei necesar"
           },
-          "options": "Căsuța din grădină (max 3pers) 250lei/noapte, Casa Cărților (max 4pers) 250lei/noapte, Casa din Târnaț cu 2 dormitoare (max 6pers) 300lei/noapte"
+          "options": "Căsuța din grădină (max 3pers) 250lei/noapte, Casa Cărților (max 4pers) 250lei/noapte, Casa din Târnaț cu 2 dormitoare (max 6pers) 350lei/noapte"
         },
         {
           "label": "Alte detalii? Scrie-ne aici...",
