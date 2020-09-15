@@ -8,12 +8,11 @@
         "title": "New article Title",
         "text": "",
         "media": "",
-        "buttons": [
-          {
-            "text": "New Button",
-            "link": ""
-          }
-        ]
+        "buttons": []
+      },
+      "button": {
+        "text": "New button",
+        "link": ""
       },
       "cards": {
         "name": "Cards",
