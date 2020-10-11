@@ -1,14 +1,1 @@
-{
-  "specific": {
-    "defaultLanguage": "ro",
-    "style": {
-      "primaryColor": "#1e821f",
-      "secondColor": "#304f4f"
-    },
-    "googleAnalyticsTrackingId": "UA-166913329-1",
-    "facebook": {
-      "welcomeMessage": "Salut, te pot ajuta? Hy, can I help?",
-      "pageId": "754321564607545"
-    }
-  }
-}
+{"specific":{"defaultLanguage":"ro","style":{"primaryColor":"#1e821f","secondColor":"#304f4f"},"googleAnalyticsTrackingId":"UA-166913329-1","facebook":{"welcomeMessage":"Salut, te pot ajuta? Hy, can I help?","pageId":"754321564607545"}},"common":{"sectionStructures":{"siteBody":{"article":{"type":"article","name":"Article","id":"","title":"New article Title","text":"","media":"","buttons":[]},"cards":{"type":"cards","name":"Cards","items":[{"title":"New Card","text":"","link":"","media":"https://www.lyon-ortho-clinic.com/files/cto_layout/img/placeholder/camera.jpg"}]},"button":{"text":"New button","link":""},"form":{"type":"form","name":"Form","submitButton":"Send","emailSubject":"Hy","successMessage":"Thank you","errorMessage":"Error, contact us on email","fields":[{"label":"New field","key":"value","type":"text","textAbove":"","model":{"value":""},"validations":{"regex":"","errorMessage":""},"options":""}]},"carousel":{"type":"carousel","name":"Carousel","items":[{"type":"article","name":"Article","id":"","title":"New slide","text":"","media":"https://www.lyon-ortho-clinic.com/files/cto_layout/img/placeholder/camera.jpg","buttons":[]}]}},"siteHeader":{"button":{"text":"New Button","link":""},"welcomeMessage":{"key":"","title":"New Message","text":"Message","backgroundColor":"yellow"}}}}}
