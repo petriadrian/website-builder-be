@@ -1,27 +1,27 @@
 {
-  "areaConfig": {
-    "lang": "ro",
-    "path": "experiences"
-  },
   "metadata": {
-    "title": "Ce poți face și vizita la Roșia Montană?",
-    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi aici ce poți vizita la noi.<br><br>",
+    "title": "Why you should visit Roșia Montana, Transylvania?",
+    "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. See here what can you visit in our area.",
     "media": "https://lh3.googleusercontent.com/aEFfs3W6_4UdkQpveQ_dcY1ycEZ6fZWOeCsLVu2-wsHsjPmFiFOv6XEnHSwXQjI1p-rvdW6o5ThKSxlA6gpiiS9mh_ltCushEH8ifThuxFS5EcmXM4eaJXlO6pD8SCZ2Jt4pPY_Q4vkhj5NfFjSPSttfjcycLOB4SYFszeAlmcQ0rykDU016Z63bZkxqGuwS6wfjZiZAlMtlkVZuDyrhyE0p1AIeDSKktVRJ3XwMHa2K3gTQmpvFSYlfk-7GkdAE47CYTI9Bbr82WQ2jItADnKPoyXSieWYxZhd1m8J-0irAzd9ly24BnwOM48nF2v0r83WKcovL888-iZC1R5GUUJzcBQWcgJL5u5zxEe8IGmdvz5LLE8oGSv40gumXoblZ_p8VkodwfAGCZ2_9oyxxFgTU7CkEp5r6QZyu7xE9-uDHM9JFnqJB16TrB3KFo4plcsbVao9SNQ8GzcFfR9S-SsWvUIJA0bmuzy9zAZ_Gc4kYdZsvdbYY2dN0BpIiIhy_Zhg0szU-uv7iXLP_4CDvBR1BMg3U-mwiW869fAwh2XYcLr3N1BmVrZnUC8LwzDx9m7PXhGZ3N5TabBCnSK76ij4X_ODxZkcWHxZT1-NFqLmPsc0uICfBkzb1UqJHmWsFEoZ-V_WZ2HTahB8VhnSWanxzZLGYWvKO6oHW4_-p6JZfJHvry3o35QT52phoVtyxdudnooBp89-h5W9y8PWn6Zgf-PEoQdSbiozpw1MCNXsG01l9=w839-h558-no"
+  },
+  "areaConfig": {
+    "lang": "en",
+    "path": "places"
   },
   "sections": [
     {
       "type": "article",
       "id": "",
-      "title": "Ce poți face și vizita la Roșia Montană?",
-      "text": "<br>Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi mai jos ce poți face și vizita în vacanța ta la Roșia Montană.",
+      "title": "Why you should visit Roșia Montana?",
+      "text": "<br>We are located in Roșia Montana, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. See bellow what cand you do and visit durring your stay in Roșia.",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/hu-N_PNbbQt7qCvuavLb3gZHIrinHGZP2LLQzYygREipp4L3eZkMBz1KuuGtn4WOZKmafnoIxdf43H0uINZymY8bHGfTAcZeQ-7t0j_qtr7-n0mQWa_75rbBohAjFqEDkmtK0BGfSAwy20JOJasfwBWULRzvDXMu33Ne1yXWOoQFKbBO5uGvF6K_mWt3BkazRNMHwvmUeyzDAHPft4qfnrD0eNU41j7cS88Cg0Bwd3-Mn6S2yGUiguem4ShOnbWmYGwkGWILqp-J19JX_YQ0ZGf4pZpSuDtLR1uEB_VH5vzq4BDaNVLGSGpbV19MTEUWG3ICTMFKBB4zf3QNZoOwtkXyOMZpvZRCBRw8BXjkRCJJu9mfpQqskpHrVS-FpacfQy7CU4rdlsqgSIil2LQKk7K7xYfu_J6Q8R0t_DhhT3A6pWU7aTQuRd7tYdnKtmEjOS4m9oqKVSCQjh0YDWyc7Ts0MZGHmWDP3c4RJQ-9yutbtypszrNv9_HeGqLqK8S2U0HW9Y1rnINT9N_5oOalpjRZJWd77HqhR0KpazyTX0QY-UyRaNFNJJok0cBWZHF2PT9AY1GlDm6575UAL4b3nhpCnzbLY9v1SolsTkGvrR6VxUsSt6GAY4QFrw8p2mISSELVgk4m8tRtFvOxR4W0ZXfA9E0TEw2oehMGo9H52loCihtIE-nHFzS11wdgDx4v0eeNuWu1fC3K1MyoQdgW5OBS8z0LH4g4952NFkzuRV3i0xcv=w1700-h1000-no"
     },
     {
       "type": "article",
       "id": "historicCenter",
-      "title": "<br>Hai la o plimbare în centrul istoric",
-      "text": "Aici vei găsi 7 biserici de 5 culte diferite, casele aurarilor și alte clădiri de patrimoniu construite de diverse civilizații venite aici de-a lungul timpului pentru a extrage aur. Dacă dorești să afli mai mult despre istoria clădirilor sau chiar să intri în câteva din acestea ca de exemplu să urci în turnul vechii biserici din centrul satului pentru a vedea priveliștea de acolo, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al centrului istoric. <br><br>",
+      "title": "<br>Discover the historic center",
+      "text": "Here you will find 7 churches of 5 different confessions, the gold miner's houses, and other patrimony buildings built by different nations who came here for the gold rush. If you want to find out more about the history of the buildings or to see some of the buildings from inside like the tower of the old church, inform us while making a <a href='en/accommodation#bookings'>booking</a> that you wish a <a href='en/activities#guidedTour'>guided tour</a> of the historic center. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -44,8 +44,8 @@
     {
       "type": "article",
       "id": "museums",
-      "title": "<br><i class='fas fa-university'></i> Află istoria aurarilor. Muzee",
-      "text": "Pornește într-un tur ghidat al galeriilor romane  de peste 2000 de ani vechime de la <b>Muzeul Mineritului Roșia Montană</b> și vezi evoluția tehnicilor de scoatere a metalelor prețioase. Dă apoi o fugă la <b>Muzeul Aurului</b> din Brad să vezi filoanele de aur nativ și expozițiile de minerale sau la <b>Muzeul Buciumanilor</b> pentru a vedea o instalație cu moră de apă complet funcțională, folosită în trecut pentru prelucrarea aurului. <br><br>",
+      "title": "<br><i class='fas fa-university'></i> Find out the goldsmiths story. Museums",
+      "text": "Take a guided tour of the roman galleries from the <b>The Mining Museum of Roșia Montană</b> and discover the gold mining evolution, see the gold veins and the rock exhibition from <b>The Gold museum of Brad</b> or the functional stamp mill used for processing the gold from the <b> Buciumanilor Museum</b>.  <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -68,8 +68,8 @@
     {
       "type": "article",
       "id": "galleries",
-      "title": "<br><i class='fas fa-dungeon'></i> Hai pe urmele căutătorilor de aur. Galeriile",
-      "text": "Roșia Montană deține una din <b>cele mai extinse complexe de mine aurifere din lume</b>, un labirint subteran de peste 120km format din galerii romane, preromane sau habsburgice propuse ca sit <b>UNESCO</b>. Peste tot în zonă se alfă guri de mină, unele chiar asemănătoare unor peșteri realizate în anumite perioade de diverse civilizații pentru a scoate aur. Pentru a le descoperi, având în vedere că sunt destul de răsfirate prin sat, recomandăm vizitarea acestora cu un ghid. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al galeriilor aurifere. <br><br>",
+      "title": "<br><i class='fas fa-dungeon'></i> The goldsmith marks. Galleries",
+      "text": "Rosia Montana has one of the largest underground gold mining system in the world, a 120km labyrinth underneath the earth made by romans, dacians or habsburgic empire and proposed recently as <b>UNESCO</b> site. They are spreaded around the village so we can organise a <a href='en/activities#guidedTour'>guided tour</a> along the galleries entries (not inside). If you want a guided tour of the galleries please inform us while making a <a href='en/accommodation#bookings'>booking</a>. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -92,8 +92,8 @@
     {
       "type": "article",
       "id": "saveRosiaMontana",
-      "title": "<br><i class='fas fa-tree'></i> Vizitează Monumentele Naturii",
-      "text": "Zona naturală protejată 'Piatra Corbului' formată din fostele exploatări aurifere de apă și foc, Piatra Căpcăunului cu legende sale sau Sfinxul Apusenilor sunt doar câteva din 'monumentele naturii' ce merită vizitate în vacanța voastră la Roșia Montană. <br><br>",
+      "title": "<br><i class='fas fa-tree'></i> Visit the Natural Monuments",
+      "text": "The natural protected area of 'Piatra Corbului' shaped by the old gold mining sites, the Ogre Stone with his legends or the Sphinx of Apuseni are just some of the 'nature monuments' that are worth visiting during your stay in Roșia. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -116,8 +116,8 @@
     {
       "type": "article",
       "id": "lake",
-      "title": "<br>Bucură-te de liniște și relaxare. Tăurile",
-      "text": "Tăurile au fost construite pentru procesarea aurului, iar acum au devenit locuri de agreement ideale de ieșit la picnic (Tăul Țarina), de a lenevi la soare (Tăul Brazi) sau de a te bucura de un apus de poveste (Tăul 'Inimă'). Pentru afla povestea acestora și rolul lor în procesarea aurului împreună cu morile de lemn, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al tăurilor. <br><br>",
+      "title": "<br>Enjoy the silence. Visit the lakes",
+      "text": "In the past were built many small artificial lakes used to process the golden ore, that nowadays are great recreational places, perfect for a picnic or catching an amazing sunset. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -140,8 +140,8 @@
     {
       "type": "article",
       "id": "viewPoints",
-      "title": "<br><i class='fas fa-walking'></i> Cucerește punctele de belvedere",
-      "text": "Natură, liniște și locuri cu priveliști deosebite. Pornește în drumeție pe potecile mai puțin umblate din zona noastră și nu uita că cele mai speciale momente sunt dimineața devreme, atunci când se lasă ceața pe văile din Apuseni. <br><br>",
+      "title": "<br><i class='fas fa-walking'></i> Conquer the landscape peaks",
+      "text": "Nature, relaxation and places with amazing views. Start your next adventure on the roadless of Roșia Montana Transylvania. We recommend to start your hike early in the morning to catch the surrounding valleys covered in mist. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -164,8 +164,8 @@
     {
       "type": "article",
       "id": "detunata",
-      "title": "<br>Vizitează acoperișul de bazalt al Apusenilor. Detunata",
-      "text": "Detunata este unul dintre cele mai spectaculoase masive din zona noastră, o arie naturală protejată formată din coloane înalte de bazalt, la baza căreia s-a format o mare de blocuri de piatră printre care apar mici ghețare. Poți ajunge acolo pe un traseul marcat sau dacă vrei să afli mai multe despre despre legendele locului și configurarea traseului cu alte obiective din zonă, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> la Detunata. <br><br>",
+      "title": "<br>Visit the basalt roof of the Carpathians - Detunata",
+      "text": "Detunata is one of the most spectacular massifs from our area, a protected natural habitat made out of high columns of basalt with a sea of rocks at his base where sometimes small glaciers appears. You can get there by your own on a marked trail but to discover the legend and to combine your trail with other objectives around specify while making <a href='en/accommodation#bookings'>booking</a> that you want a <a href='en/activities#guidedTour'>guided trail</a> of Detunata. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -188,8 +188,8 @@
     {
       "type": "article",
       "id": "hayhouse",
-      "title": "<br>Descoperă un 'Muzeu în aer liber'. Casele cu paie",
-      "text": "O plimbare prin satele din apropierea zonei noastre este ca o călătorie în timp. O parte din gospodării au rămas conservate așa cum erau în trecut, acoperite cu paie sau șindrilă de lemn. Pentru a le vizita specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al caselor cu paie (pe jos sau cu bicicleta). <br><br>",
+      "title": "<br>Discover an 'Open air museum'. Hay houses",
+      "text": "A walk among the surrounding villages is like a journey back in time. A part of the households remained preserved exactly as they were in the past, covered with hay or wood. To visit them specify while making <a href='en/accommodation#bookings'>booking</a> that you want a <a href='en/activities#guidedTour'>guided trail</a> of the hay houses (by bike ar walking). <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -212,8 +212,8 @@
     {
       "type": "article",
       "id": "hiking",
-      "title": "<br><i class='fas fa-flag'></i> Trasee marcate de drumeție",
-      "text": "Drumeții în natură, aer curat sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore). Marcajele pornesc chiar din fața casei așa că <a href='ro/accommodation#bookings'>rezervă o vacanță la Roșia</a>, ia-ți bocancii de munte și hai la drumeție. <br><br>",
+      "title": "<br><i class='fas fa-flag'></i> Hiking marked trails",
+      "text": "Hiking in the nature, fresh air or bike rides? Discover Roșia Montană and its surroundings following the <b>marked trails</b> for every level (beginners or advanced - 3, 5 or 8 hours). All of them starts in front of our house so bring your mountain boots, <a href='en/accommodation#bookings'>book a trip to Rosia</a> and come for a hike. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -228,8 +228,8 @@
     {
       "type": "article",
       "id": "narcise",
-      "title": "<br><i class='fas fa-hiking'></i> Hai la Poiana cu Narcise Apuseni",
-      "text": "Acest loc este una din locațiile 'musai de văzut' ale Apusenilor în luna Mai. Mirosul și priveliștea de aici în perioada înfloririi narciselor va rămâne cu siguranță o amintire de neuitat. Puteți ajunge până acolo cu mașina, dar recomandăm vizitarea cu un ghid pentru a vă configura traseul și cu alte atracții din apropiere. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a>  spre Poiana Cu Narcise (pe jos sau cu bicicleta). <br><br>",
+      "title": "<br><i class='fas fa-hiking'></i> Discover the daffodils meadow",
+      "text": "Near Roșia Montană is one of the must see places of Transylvania Mountains in May. The smell and the landscape during the daffodils blooming period will remain an unforgettable memory. To visit it please specify while making <a href='en/accommodation#bookings'>booking</a> that you want a <a href='en/activities#guidedTour'>guided trail</a> of the daffodils meadow (bike or walk). <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -244,8 +244,8 @@
     {
       "type": "article",
       "id": "movieScreenings",
-      "title": "<br><i class='fas fa-video'></i> Proiecții-n prun. Documentare Roșia",
-      "text": "De obicei în serile de vară ne adunăm în grădina, atârnăm proiectorul în prun și urmărim documentare sau filme vechi realizate în Roșia. Dacă dorești să organizăm o proiecție într-una din seri, nu uita să specifici la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>. <br><br>",
+      "title": "<br><i class='fas fa-video'></i> Documentaries about Rosia in our yard",
+      "text": "In the warm summer evenings we organize movie screenings in the yard with documentaries and old movies with or about Rosia Montana. If you want a movie screening during your stay please specify while making a <a href='en/accommodation#bookings'>booking</a>",
       "buttons": [],
       "media": ""
     },
@@ -260,8 +260,8 @@
     {
       "type": "article",
       "id": "communism",
-      "title": "<br><i class='fas fa-city'></i> Vezi mega-exploatările comuniste",
-      "text": "Pentru a vedea impactul și prețul plătit pentru obținerea metalelor prețioase vizitați unzina și cariera Roșia Poieni (una din cele mai extinse cariere de suprafață din Europa) și iazul de decantare ce a scufundat satul Geamăna. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al explotărilor miniere. <br><br>",
+      "title": "<br><i class='fas fa-city'></i> See the communist mega-projects",
+      "text": "To see the impact and the price paid to obtain the precious metals you should visit Roșia Poieni (one of the largest open pits from Europe) and its waste lake that covered the Geamăna village. Please specify while making <a href='en/accommodation#bookings'>booking</a> that you want a <a href='en/activities#guidedTour'>guided trail</a> of Rosia Poieni - Geamana. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -284,8 +284,8 @@
     {
       "type": "article",
       "id": "saveRosiaMontana",
-      "title": "<br><i class='fas fa-flag'></i> Descoperă campania 'Salvați Roșia Montană'",
-      "text": "Vezi locurile și alfă poveștile unde timp de 15 ani au avut loc acțiuni de proteste împotriva unei companii canadiene ce dorea deschiderea unei mari exploatări cu cianuri pentru a extrage aurul rămas. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> prin care afli povestea campanie și impactul proiectului canadian. <br><br>",
+      "title": "<br><i class='fas fa-flag'></i> Discover the 'Save Rosia Montana' campaign",
+      "text": "Visit the places where during 15 years were actions against the Canadian mining company who wanted to open a big gold mining using cyanide to extract the remaining gold. Specify while making <a href='en/accommodation#bookings'>booking</a> that you want a <a href='en/activities#guidedTour'>guided trail</a> to find out more about this campaign. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -300,8 +300,8 @@
     {
       "type": "article",
       "id": "vulcan",
-      "title": "<br> Vezi peisaje de poveste. Masivul Vulcan",
-      "text": "Masivul este într-adevăr un vulcan stins acum mult timp. Impresionează prin forma lui, peisajele tipic din Apuseni și pereții înalți și drepți ideali de escaladă. Se poate ajunge aici cu mașina sau cu bicicleta, urmate de o drumeție de o oră pentru cei ce doresc să urce pe vârful acestuia. <br><br>",
+      "title": "<br>Enjoy the fairy tail views. Volcano Massif",
+      "text": "The massif itself is actually an inactive volcano that impress through its shape and size and great place for a hike and bike. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -316,8 +316,8 @@
     {
       "type": "article",
       "id": "farmer",
-      "title": "<br><i class='fas fa-horse'></i> Încearcă viața la țară",
-      "text": "Te punem în contact cu o familie de fermieri din zona nostră unde vei participa la treburile zilnice (cositul ierbii, mulsul și adăpatul vacilor, ridicarea căpițelor sau strânsul fânului ce va fi folosit la iarnă pentru animale). Fermierilor le-ar prinde bine o mână de ajutor iar pentru tine va fi o experiență unică deoarece vei învăța meșteșuguri tradiționale, ajuți la protejarea biodiversității și te vei conecta la natură și la obiceiuri străvechi bine păstrate la noi în Apuseni. Dacă dorești să participi la o astfel de experiență, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>. <br><br>",
+      "title": "<br><i class='fas fa-horse'></i> Live as a local farmer",
+      "text": "We will put you in touch with the local farmers where you can take part to their daily works, easy to learn (hand cow milking, local food and drinks making or to the traditional haymaking which will be used in the winter for the animals). Your help would be really helpful for the farmers and for you will be an unique experience, will be connected to the nature, will help preserving the biodiversity and will learn traditional crafts very well preserved in our area. If you want to live as a local inform us while making a <a href='en/accommodation#bookings'>booking</a>. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -340,8 +340,8 @@
     {
       "type": "article",
       "id": "scarisoara",
-      "title": "<br><i class='fas fa-mountain'></i> Unul din cele mai mari ghețare subterane",
-      "text": "<b>Ghețarul Scărișoara</b> este unul din cele mai mari ghețare subteran din lume aflat în inima Apusenilor și primul obiectiv declarat monument al naturii din România. Se află la o oră de mers cu mașina de noi sau 4h cu bicicleta.<br><br>",
+      "title": "<br><i class='fas fa-mountain'></i> One of the largest underground glacier",
+      "text": "The <b>Scărișoara Glacier</b> is a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains. Is located at 1h by car or 4h by bike from us.<br><br>",
       "buttons": [],
       "media": ""
     },
@@ -356,8 +356,8 @@
     {
       "type": "article",
       "id": "pisoaia",
-      "title": "<br><i class=\"fas fa-water\"></i> Un loc unic în Apuseni, Cascada Pișoaia",
-      "text": "Cascada Pisoaia este o splendida cadere de apa de peste 18 metri inaltime. Chiar lângă este Dealul cu melci un loc unde se pot vedea specii de moluște încrustate în piatră ce au trăit cu milioane de ani în urmă pe fundul mării. Obiectivele se află la 30min de mers cu mașina de noi sau 2h cu bicicleta.<br><br>",
+      "title": "<br><i class=\"fas fa-water\"></i> An unique place, Pișoaia Waterfall",
+      "text": "Pisoaia Waterfall has 18 meters high and is surounded by a pine forest. Nerby is the <b>Snail hill</b> (a reef shell of snails that lived millions of years ago on the bottom of the sea). They are located at 30min by car from us or 2h by bike.<br><br>",
       "buttons": [],
       "media": ""
     },
@@ -372,8 +372,8 @@
     {
       "type": "article",
       "id": "aries",
-      "title": "<i class=\"far fa-star\"></i> Descoperă atracțiile de pe Valea Arieșului",
-      "text": "Pe valea Râului Arieș vei găsi una din cele mai vechi așezări monahale din Apuseni Mănăstire Lupșa, peștera uriașilor din timpuri străvechi Huda lui Papară sau mocănița Apuseni ce pornește din localitatea Sălciua. Se află la 1h de mers cu mașina de noi sau 4h pe bicicletă. <br><br>",
+      "title": "<i class=\"far fa-star\"></i> Discover the attractions from the Arieș Valley",
+      "text": "On the <b>Arieș River</b> will see one of the oldest monestery from Apuseni the <b>Lupșa Monestery</b>, the cave of the giants from ancient times <b>Huda lui Papară</b> or the Salciua steamtrain. They are at 1h by car or 4h by bike. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -396,8 +396,8 @@
     {
       "type": "article",
       "id": "autumn",
-      "title": "<br><i class='fas fa-leaf'></i> Surprinde culorile toamnei",
-      "text": "Toamna la Roșia vine cu dimineți reci cu ceață, amiezi blânde și peisaje ideale de surpins în poze. De obicei, în weekendurile din Octombrie pornim în <b>ture foto</b> spre zonele de foioase. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> dacă dorești să ne participi și tu. <br><br>",
+      "title": "<br><i class='fas fa-leaf'></i> Capture the autumn colors",
+      "text": "Enjoy the autumn nature of Roșia with its cold and foggy mornings, gentle afternoons and ideal landscapes to catch in photos. Usually, in October we organize photo tours along the forest areas - if you want to participate please specify while making a <a href='en/accommodation#bookings'>booking</a> <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -412,8 +412,8 @@
     {
       "type": "article",
       "id": "winter",
-      "title": "<br><i class='far fa-snowflake'></i> Hai la săniuș! Iarna la Roșia",
-      "text": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă și locuri ideale de dat cu sania. Ulițele satului devin locuri perfecte pentru a face drumeții ușoare într-o dimineață cu ninsoare. <br><br>",
+      "title": "<br><i class='far fa-snowflake'></i> Rosia on a sleigh. Winter season",
+      "text": "New and amazing landscapes are coming out during the winter, the old houses will be covered in snow, the surrounding hills will be perfect for sleigh rides and the village roads great for an easy walk in a snowy morning. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -436,8 +436,8 @@
     {
       "type": "article",
       "id": "guidedTour",
-      "title": "<br><i class='fas fa-hiking'></i> Oferim tururi ghidate",
-      "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid local deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi atracțiile descrise pe această pagină (centrul istoric, povestea aurului și mineritul, zona propusă ca sit UNESCO, tăuri, galerii sau obiective naturale). Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> dacă dorești să-ți organizăm pe perioada șederii un tur ghidat și spune-ne ce zone te interesează, iar apoi te vom contacta pentru a stabili toate detaliile. <br><br>",
+      "title": "<br><i class='fas fa-hiking'></i> We offer guided tours",
+      "text": "We recommend to visit our area with a local guide because the stories matters and Rosia Montana has a golden past. <b>We organize guided tours</b> on demand to discover the attractions described on this page (the historic center, the gold mining stories, the proposed UNESCO area, lakes, galleries, open pits or natural objectives). Please specify while making a <a href='en/accommodation#bookings'>booking</a> that you want to participate to a guided tour during your stay, inform us what areas do you want to visit and afterwards we will contact you to set up all the details. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -460,8 +460,8 @@
     {
       "type": "article",
       "id": "bike",
-      "title": "<br><i class='fas fa-bicycle'></i> Desoperă zona cu bicicleta",
-      "text": "Ne aflăm într-o zonă cu dealuri, văi și sate legate de drumuri de țară ideale pentru ture cu bicicleta. Dacă dorești pe perioada șederii să <b>închiriezi biciclete sau trasee ghidate pe bicicletă</b> te rugăm să specifici la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>, iar apoi te vom contacta pentru a stabili toate detaliile. Câteva link-uri spre <b>trasee cu hărți, profil și date gps</b> pe care le poți face la noi găsești pe: <a href='https://www.bikemap.net/en/r/4121632' target='_blank'>Traseul Tăurilor - 7km</a> | <a href='https://www.bikemap.net/en/r/3594806' target='_blank'>Traseul Vârtop - 12km</a> | <a href='https://www.bikemap.net/en/r/4122612/' target='_blank'>Traseul Detunata - 20km</a> | <a href='https://www.bikemap.net/en/r/3873269' target='_blank'>Traseul Geamăna - 34km</a> | <a href='https://www.bikemap.net/en/r/3873321' target='_blank'>Traseul Negrileasa - 39km</a> <br><br>",
+      "title": "<br><i class='fas fa-bicycle'></i> Visit Roșia on a bike",
+      "text": "We are located in an area with hills, valleys and unpaved roads between mountain villages perfect for cycling. If you want <b>to rent bikes or guided tours on bikes</b> during your stay please specify while making a <a href='en/accommodation#bookings'>booking</a>. Some gps tracks can be found on: <a href='https://www.bikemap.net/en/r/4121632' target='_blank'>Lake trail - 7km</a> | <a href='https://www.bikemap.net/en/r/3594806' target='_blank'>Vârtop trail - 12km</a> | <a href='https://www.bikemap.net/en/r/4122612/' target='_blank'>Detunata trail - 20km</a> | <a href='https://www.bikemap.net/en/r/3873269' target='_blank'>Geamăna trail - 34km</a> | <a href='https://www.bikemap.net/en/r/3873321' target='_blank'>Negrileasa trail - 39km</a> <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -484,8 +484,8 @@
     {
       "type": "article",
       "id": "berry",
-      "title": "<br><i class='fas fa-concierge-bell'></i> Pornește într-o drumeție 'delicioasă'",
-      "text": "În funcție de sezon, pe dealurile din împrejurimi o să găsiți diverse bunătăți direct de la sursă. De veniți în luna Mai sau Iunie sunt <b>fragi și muguri de brad</b> iar în luna Iulie sau August <b>zmeură, afine, mure și merișoare</b>. Înarmează-te cu răbdare, <a href='ro/accommodation#bookings'>rezervă o vacanță la Roșia</a> și hai la cules de fructe de pădure. <br><br>",
+      "title": "<br><i class='fas fa-concierge-bell'></i> Have a 'delicious' hike",
+      "text": "Depending upon the season, our area offers various goodies directly from the source. If you come in May or June will find <b>strawberries and fir buds</b> in July or August <b>raspberry, cranberries, blackberry or mushrooms</b>. So <a href='en/accommodation#bookings'>book a trip</a> and come on a hike on the sounding massifs to pick forest fruits, medical plants or mushrooms. <br><br>",
       "buttons": [],
       "media": ""
     },

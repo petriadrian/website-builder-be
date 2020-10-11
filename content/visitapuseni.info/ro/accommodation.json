@@ -165,7 +165,7 @@
       "type": "article",
       "id": "bookings",
       "title": "<br><i class='far fa-calendar-check'></i> Rezervări",
-      "text": "Scrie-ne în căsuța 'Alte detalii' dacă dorești să închiriezi biciclete sau să organizăm un <a href='ro/experiences#guidedTour'>tur ghidat</a> pe perioada șederii spre oricare din atracțiile descrise pe pagina <a href='ro/experiences'>experiențe</a>. Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Prețurile pot să difere</b> în perioada cu sărbători sau alte evenimente.",
+      "text": "Scrie-ne în căsuța 'Alte detalii' dacă dorești să închiriezi biciclete sau să organizăm un <a href='ro/activities#guidedTour'>tur ghidat</a> pe perioada șederii. Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Prețurile pot să difere</b> în perioada cu sărbători sau alte evenimente.",
       "buttons": [],
       "media": ""
     },

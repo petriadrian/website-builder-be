@@ -165,7 +165,7 @@
       "type": "article",
       "id": "bookings",
       "title": "<br><i class='far fa-calendar-check'></i> Bookings",
-      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to rent bikes or to organize a <a href='en/experiences#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='en/experiences'>experiences</a> page. The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
+      "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to rent bikes or to organize a <a href='en/activities#guidedTour'>guided tour</a> during your stay to any of the attractions described on <a href='en/experiences'>experiences</a> page. The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
       "buttons": [],
       "media": ""
     },

@@ -1,27 +1,27 @@
 {
-  "areaConfig": {
-    "lang": "ro",
-    "path": "experiences"
-  },
   "metadata": {
-    "title": "Ce poți face și vizita la Roșia Montană?",
+    "title": "Ce vizitezi la Roșia Montană?",
     "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi aici ce poți vizita la noi.<br><br>",
     "media": "https://lh3.googleusercontent.com/aEFfs3W6_4UdkQpveQ_dcY1ycEZ6fZWOeCsLVu2-wsHsjPmFiFOv6XEnHSwXQjI1p-rvdW6o5ThKSxlA6gpiiS9mh_ltCushEH8ifThuxFS5EcmXM4eaJXlO6pD8SCZ2Jt4pPY_Q4vkhj5NfFjSPSttfjcycLOB4SYFszeAlmcQ0rykDU016Z63bZkxqGuwS6wfjZiZAlMtlkVZuDyrhyE0p1AIeDSKktVRJ3XwMHa2K3gTQmpvFSYlfk-7GkdAE47CYTI9Bbr82WQ2jItADnKPoyXSieWYxZhd1m8J-0irAzd9ly24BnwOM48nF2v0r83WKcovL888-iZC1R5GUUJzcBQWcgJL5u5zxEe8IGmdvz5LLE8oGSv40gumXoblZ_p8VkodwfAGCZ2_9oyxxFgTU7CkEp5r6QZyu7xE9-uDHM9JFnqJB16TrB3KFo4plcsbVao9SNQ8GzcFfR9S-SsWvUIJA0bmuzy9zAZ_Gc4kYdZsvdbYY2dN0BpIiIhy_Zhg0szU-uv7iXLP_4CDvBR1BMg3U-mwiW869fAwh2XYcLr3N1BmVrZnUC8LwzDx9m7PXhGZ3N5TabBCnSK76ij4X_ODxZkcWHxZT1-NFqLmPsc0uICfBkzb1UqJHmWsFEoZ-V_WZ2HTahB8VhnSWanxzZLGYWvKO6oHW4_-p6JZfJHvry3o35QT52phoVtyxdudnooBp89-h5W9y8PWn6Zgf-PEoQdSbiozpw1MCNXsG01l9=w839-h558-no"
+  },
+  "areaConfig": {
+    "lang": "ro",
+    "path": "places"
   },
   "sections": [
     {
       "type": "article",
       "id": "",
-      "title": "Ce poți face și vizita la Roșia Montană?",
-      "text": "<br>Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi mai jos ce poți face și vizita în vacanța ta la Roșia Montană.",
+      "title": "Ce vizitez la Roșia Montană?",
+      "text": "<br>Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. <br><i class=\"fas fa-chevron-down ng-star-inserted\"></i>",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/hu-N_PNbbQt7qCvuavLb3gZHIrinHGZP2LLQzYygREipp4L3eZkMBz1KuuGtn4WOZKmafnoIxdf43H0uINZymY8bHGfTAcZeQ-7t0j_qtr7-n0mQWa_75rbBohAjFqEDkmtK0BGfSAwy20JOJasfwBWULRzvDXMu33Ne1yXWOoQFKbBO5uGvF6K_mWt3BkazRNMHwvmUeyzDAHPft4qfnrD0eNU41j7cS88Cg0Bwd3-Mn6S2yGUiguem4ShOnbWmYGwkGWILqp-J19JX_YQ0ZGf4pZpSuDtLR1uEB_VH5vzq4BDaNVLGSGpbV19MTEUWG3ICTMFKBB4zf3QNZoOwtkXyOMZpvZRCBRw8BXjkRCJJu9mfpQqskpHrVS-FpacfQy7CU4rdlsqgSIil2LQKk7K7xYfu_J6Q8R0t_DhhT3A6pWU7aTQuRd7tYdnKtmEjOS4m9oqKVSCQjh0YDWyc7Ts0MZGHmWDP3c4RJQ-9yutbtypszrNv9_HeGqLqK8S2U0HW9Y1rnINT9N_5oOalpjRZJWd77HqhR0KpazyTX0QY-UyRaNFNJJok0cBWZHF2PT9AY1GlDm6575UAL4b3nhpCnzbLY9v1SolsTkGvrR6VxUsSt6GAY4QFrw8p2mISSELVgk4m8tRtFvOxR4W0ZXfA9E0TEw2oehMGo9H52loCihtIE-nHFzS11wdgDx4v0eeNuWu1fC3K1MyoQdgW5OBS8z0LH4g4952NFkzuRV3i0xcv=w1700-h1000-no"
     },
     {
       "type": "article",
       "id": "historicCenter",
-      "title": "<br>Hai la o plimbare în centrul istoric",
-      "text": "Aici vei găsi 7 biserici de 5 culte diferite, casele aurarilor și alte clădiri de patrimoniu construite de diverse civilizații venite aici de-a lungul timpului pentru a extrage aur. Dacă dorești să afli mai mult despre istoria clădirilor sau chiar să intri în câteva din acestea ca de exemplu să urci în turnul vechii biserici din centrul satului pentru a vedea priveliștea de acolo, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al centrului istoric. <br><br>",
+      "title": "<br>Centrul istoric",
+      "text": "Aici vei găsi 7 biserici de 5 culte diferite, casele aurarilor și alte clădiri de patrimoniu construite de diverse civilizații venite aici de-a lungul timpului pentru a extrage aur. Dacă dorești să afli mai mult despre istoria clădirilor, să intri în câteva din acestea sau să urci în turnul vechii biserici din centrul satului pentru a admira priveliștea de acolo, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a> al centrului istoric. <br><br>",
       "buttons": [],
       "media": ""
     },
@@ -104,14 +104,6 @@
       "text": "",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/Su2SL2DYpPNl6wBkSJCw0G_qGSPZUqTAUlKQkVrvObt6vebV4_GOQpsGlcjyEihtk-rXjtGaAYGg-iZCf8DulaWWFdixrX5Qw5lXmbhEqXWPHsxIHnb5bxHTZxOPs7ZcDp11RJV6J092aGy7lfbTD6-Xh8F3eJCxi0hVk75DFVBiPu_tZmCi63kn2HkjwJSVBobxxhlju44ppUzG3W-uBPPGuEsfBMDVkOadRAQs7t_X1ozUPPoGBYZ2I4cyhYwEBs_Yx_nHLJ4CaWHHyLC0bIHRuScbBXCIKFrbBSGjwOOWE6hUMXdQC_NG4mkttR8qRd-3C8F8mizNiH84LXDjnxx9rNkrhe11ioBkSih8w2kDaGahtaKz3a4ajYcjV1mGLqzKltlT-bN0I_-Tb_4BAiS0lZkdoaZ3uR98obxZfL8IJanwUwmWiNDOeZwjYC-5uTSSxaaGuHFonqjE6rygSP9kJid_BgB5ZZPsqBL-aO9EJpiMi36FAPE1EDfam4zzfRy6Q_JjaPSPWo_MlK7miExX5TFdMO70BWDNgEYS13uY7yT9Drf2vppbhCyGnsjKObDvoGBBJuX7ZgtJMDhQKSvJYmkv21qyKW7qGjJ5_3JsfjKIs0NdgKnvFbOhlpt7ZTcBeiOz91sRNQofsLxvxQqANqQZfXXFZv3HJo6T5VfQzEj7FdDJoHnpwJHoAMNyY9eI_L1Lo68_8MmRZaq087Bsf643ZKM04RhRyCkkGF97HYig=w2100-h1396-no"
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/zB28u3on4aSI6bwlWPmjKT1QNqQuH2qAyKtnzElldWYI1fXWtBd4PWdyjVvU-jn7dgX1qmuUJBKOTTMttC7OauUlQtqQlpOsnIhLMyyOsuB5OKA1ok6x7y_K72NTD7U_vTNylfiQFmZFksXnZeE_cGiQ5ni092sQ2gCxBQ6-k_oayKQ2c5mL3SizBX3VLZRub5CWZIOzaloxjVUls4FlXBnnBteMzKnhnoLsKHMa9h7oS2mdcL3Ntn30w1SHLLecJsomgaWzKV-Lm-xsiR8IGN1afJOEg9tLVFF-vYirT3LDaYsKlaXLpuLEln5f6lVUZcXnN-t6UeKxGCQuH03BfXKDRXt8pt0b9VOKL53ai-OiYewiQSAWc0FDYIfsJ6PB997O-WaYF_MF-BaNqLQ6vBmyIA5e1auUgxc4R9x5zhz5q7B7h4d5WttZudyZW-PyQb_jvu8VwKmIwVm5Kn5HyXoOwZ_TQADlBFzvAHibrJa2IShVE_KzLBf6Gt1AjUgJ3doMmlQ3MDNy0NIJz9RHcz_-tqSWA5Ln-C0CGiIcY_IwN-p1vlzGi7KqB_bV4MEE6RlLOlK5Zfmg4amrfuHxzp_X6Zufj1lYaPpjPl3dqfvPG1GBx_DOuloc8GDaKNQtdBAxUy-9vAvaNGNk26pyJFwpXdqgoHg8KYz9dhGCrrAvQpbFH9kGskmqnFOd1iU7-54yf5QNSPq0FNsrmo6fdogF9SMA7TSqrrLBjDD4T9Eh7e4D=w839-h558-no"
     },
     {
       "type": "article",
@@ -211,22 +203,6 @@
     },
     {
       "type": "article",
-      "id": "hiking",
-      "title": "<br><i class='fas fa-flag'></i> Trasee marcate de drumeție",
-      "text": "Drumeții în natură, aer curat sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore). Marcajele pornesc chiar din fața casei așa că <a href='ro/accommodation#bookings'>rezervă o vacanță la Roșia</a>, ia-ți bocancii de munte și hai la drumeție. <br><br>",
-      "buttons": [],
-      "media": ""
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/n4pcoa7lxYxCcH1D9GCkIgrsQKxzZd2slluSBAt9emahk8aNispPDLmD_hrm777YFQ8fd2qBPJgfk4DNpLKl_9tFsffDLp4VsXavodGdGAttILOdE2mt2Tik_pWN5qdZV4smm3HJmRViFpFVPLYEA4sICBm4d1FFhoSRf2dPZ5wL7pF-nrW1h27ra6n0Qi5toFIQtcSiKXLOlQiq1yQewKHTUB5GaBU7U9P0ELb_RxcBqyBSDM3_IlHtjZJoS76DMThoFK1wyVyAFcBilkBzB8IY5YWKwFvvWkh_W4ymG7Yu7SSVsVKAbPuG5ei9F7syWEYltFEwVC4uzvCkGEwfUzb2j9PjM9Keyy9Dkv9skgJXfesYhJzIYU7oPy00Gi39cyoacgfSG2_UygCSSgwsykTDyCp0G1Aa9M8qxl8jK__isvqGwCpu_FRs3aA5RKupJcSut41GgYhVpVIh_JXH-vVjTaK4U29aqIND6kaIJ9noh-_1Lue3D8amyFlyxJiDVTb1CAKhIH_Ougi3TgFUwQdy5QGCp1vwkpZgfMqiUv3wBLk3c_QyG9xJ1WlR2DKsF__Q8aph7cbbTQC5zIhf-0doXirJyroM6A-0X56navOoxEnXr9LWbjYwArz-K8Q3Tfciz9OrTUteE5Q3nQMgxQvSTu-LQZ4AykO-rNDyb3-pgc2n8YPZf-3ld6OJKVFpoiJCki2fV90UBKZUAxHp2JgGIn4nf5TaWOD5IMkREAs1Ey9v=w1500-h997-no"
-    },
-    {
-      "type": "article",
       "id": "narcise",
       "title": "<br><i class='fas fa-hiking'></i> Hai la Poiana cu Narcise Apuseni",
       "text": "Acest loc este una din locațiile 'musai de văzut' ale Apusenilor în luna Mai. Mirosul și priveliștea de aici în perioada înfloririi narciselor va rămâne cu siguranță o amintire de neuitat. Puteți ajunge până acolo cu mașina, dar recomandăm vizitarea cu un ghid pentru a vă configura traseul și cu alte atracții din apropiere. Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> că dorești un <a href='ro/activities#guidedTour'>tur ghidat</a>  spre Poiana Cu Narcise (pe jos sau cu bicicleta). <br><br>",
@@ -240,22 +216,6 @@
       "text": "",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/GUvkyDse5gmsahq8dvoAkWR4357SWwN06DRBu6wvaaN9ZqF-Hg2j9fp80itk-u7MMPGirO-gW28ctsLNF4WVboX60xO8T0BYoUdpsIDcQSk2-LF7FKlqTOMwxHhCQIlpubXWNW1hM7iXwDirkLBbT4jOF1d9WrIy_luqLHkIk_QOg7i0agVsM-8CvIA4xCDolVYYBD6TrStTsg5Uiwo1SdoCJYcEVNr0a5bwX2B7jMjdaoUTYugmLj9sATOYswbxvRi73p5d5f2LJ4BuSeetQYYFRyIIyUyVzg_NALcPlC5LCmv-_tverTPxgscse43kdsYN3StfbyW6NNDrYRELixduKj3Qotsayv7D_rRDfnPNfuS_oXG_yz4UVE1mf2CqavLG8PwOUgXQmOu_Qt7eU7GEuDvwf6GF542Ze1aVCIBfDYKGmpkE9QrjFu3L6gxwm0vp_S0URXHvbwaX0B8CBniNZMLCs3Ee6KZPXIUuQ1HExoMdQTz0mcxCFeUkvqdHQiLaesxJFD7t4KbogOGpnxQStZgTD8Yns-bsK_lpn47wW1WGnp-g8UIpR0W9BEzsYGbqN054FTX6j7ekYvkoDsptFWBFiUMwAf3z1fQnonopB7CS99XluFMMOmQ4LZTIADKLgt7wpyKa1w9SOtgxZWoJ8wJzcVuR_dWEMO4iC4OxrToP7sisID2OpOW1lM9Tqm7S4bG-gibxbCfq1YsK3UKMmcUGg631j_wqCQ1RKxgXdelI=w842-h558-no"
-    },
-    {
-      "type": "article",
-      "id": "movieScreenings",
-      "title": "<br><i class='fas fa-video'></i> Proiecții-n prun. Documentare Roșia",
-      "text": "De obicei în serile de vară ne adunăm în grădina, atârnăm proiectorul în prun și urmărim documentare sau filme vechi realizate în Roșia. Dacă dorești să organizăm o proiecție într-una din seri, nu uita să specifici la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>. <br><br>",
-      "buttons": [],
-      "media": ""
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/IDxSBTtEmeb8KXNRNzRgKTsaFnE3jmgYWAXY6hhReYFJvSWF5XR0LwW4ElQ1oEpUMLFUjk2yASkcIRAtgs2JP48wQ_-W7oY7KGxDAYJJB5gj0p4uvG5RrW0xP0hg0YQVWASvkgiB-BNC-fa8B0eblbvlYtIUxqgFxVdRJbRzSIbASgsDj9g0MhxH04ytBEMqjcYeQxSJ97mtKbr6Kj7yyvXgdBK2lKcar47JTOMo24nfN6WHwSruQVuZnFOtltYK73Qh29jO_dFPF08CReovycOoh8oW3ReNhHCtVwSANYciElf0u81RMFYed2z5bj_wGuczWOJsKskZH9E3VywB66UuWKIvP4RQwGMSjRi86cjkWI-U0AC0QMNoP1kQEUgB7kt7iErMnTYFYNuWUhr663jmxP18tRqipWRZRenK5fC9rSX4_zpXFvkesM1_lC3vkLpTcnVD7JQaL06Y1RcLzZS59absvX1I0fbZr_apoW9XdXHe5GXT12-uooldPUVtvgj308jqLT2fDHHMDfai8ai2z-NUEdNTLWx5fqDvL6UahPpdb8MSRCdF-Yi2VK6s0bCK4_3YPeKO-q6SKonwebqgE5dglKB7RvM-UmVv40zYELBWJLXu8eKgQrOliA57VBN0VHwQD_jeVD89CaCdA-sx7B625kinWEExyUefxM6zHmLWwHgQE6LkVh7MbVGN4QfsLBLo3Gy3rDFyYA-1aYoCSFDGOjNtpdbqrr6ceBUvpfWt=w780-h519-no"
     },
     {
       "type": "article",
@@ -315,30 +275,6 @@
     },
     {
       "type": "article",
-      "id": "farmer",
-      "title": "<br><i class='fas fa-horse'></i> Încearcă viața la țară",
-      "text": "Te punem în contact cu o familie de fermieri din zona nostră unde vei participa la treburile zilnice (cositul ierbii, mulsul și adăpatul vacilor, ridicarea căpițelor sau strânsul fânului ce va fi folosit la iarnă pentru animale). Fermierilor le-ar prinde bine o mână de ajutor iar pentru tine va fi o experiență unică deoarece vei învăța meșteșuguri tradiționale, ajuți la protejarea biodiversității și te vei conecta la natură și la obiceiuri străvechi bine păstrate la noi în Apuseni. Dacă dorești să participi la o astfel de experiență, specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>. <br><br>",
-      "buttons": [],
-      "media": ""
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/MOtVqxlnOOQnw4Zv2IVXEFQZDr9aXbz8VC9RNptLPopSEXMLgbdOosI-SUAw55GCK2VBFeJvtUsjMRGv9i_8UXV5k0GZk5wtnXacRUJOQPkek9hyuu3CS0Lk2R8ERoYoC2DUJWopxdtedX3YqSIUHTaOmd_GNUD43KI3Hf1i1RrvX-4A9-OgMBezoz6mS-SAya9_0_DFDP5L2ApDMjAmiWcmHs2ommlYSE1qcQO3GA7ejdFp2RupQ0kzlHcLC4Kn3sEPExl0AT9WXuiKJLT5UyCP3S-u5qyyQy_tpiqVaPewJfS4Dc2g8le_62uw1CK4wqK9sLkbJ3s-8Xl0SV7zF2LwuXt6Y77GagPJVJni28nnc85lrMnmTn29F13wD9oEVNrydcT7-jQtLp_d5kni9wi6lcEFPLCk0W_2Gbiw1JQRSgsTSrTLyYp3rz_8rMVAMEKKVVfK2m4EQdyOdG1BB8tGdOxPUBgyM4oaZaIYMK8-v8IR1pc4Gw9ZNdr1Aoxyr6L_bdGEqW3OOLE_E4HiyhJCEhLd9k5Fi5GCAi2ZfDwCJJO5RMl6aVhlyp9UsmFjB7wqRqk_YBUF0uksnLd9GSW8-OJaGHz4EiynS7NIQG_CzMpn6EPGXfTuPS9_qaJNZYTD-uSeisCcG-IPZWAMVMuD_eF7XDpWg_rbyYH3KPU9KmZpJAK-hQixxrVzKLdAa2uiMQjNMmmOsnj1CJDA04qoZbUIPxutqwDW39uDLIQNIeVM=w948-h558-no"
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/bko79ofxrKzzMX3fgB6A4IJsfXvEddQqiok8hNc05iLv2oXlfegDGDTBf4-IdRZET4XisZvfBIJt1-SWo-cs_LvUidqBspxCEOatRc4T05YEyrepbb0AJTdzlzFYDOJpyywNzvTM7iw6IV9OvAs0rv16cSVXK_Vm9Cs83x6qs9h81TOWoW2iOHFkITtcLtvcVb33kLgKLg7YZ-8GHC1cwD885D4DqAxah_YxdbaLzdtYTzmwo5KGpGVYZDUjgU0arDZJ7sxD7bjKnZ-TJkYgLumt2wFX5jXJVNK-OPFnAYAJWFro7idDf6ue0kTtCAmo5DhNeIRlyR4DIKDROwMlEyOGlsgXZ6JVINpgmK69OShk5sQyo3TRDTs0M2H8kbHksUiIh-OiLFp11FLRkyNCuYTyHxskW72yMPi_GvhuzMey9XkiJZAiq-CXH5KQbFi529rydLrhCzEma5bKMs6Oo3VnR2I_cnnBa4-SzWmXP9tVV-O3u8tu7OnKnJgOqeBpwmcj0QRhXonPHIWvRubBTk3Y1nXnC543V8LU2cJiFqBUS0sxTGn5E2hFO0qEfBPaiyCAe0GxBDTXKaTScd3iczhYO4XR1q73YuKpIAAKsOtgDJNpgwuaWXCwtQwhpEQ5iCP4s6ksDUSh3N2D9DJgUlRemnYvpLcnkDgGK4EMsmaEQq5v11FkZ4TQD680a-MS-O8OdOIuCxbJgINC6pLC__0HCfQOawwElfn-CdeuBDY_Yybn=w1400-h931-no"
-    },
-    {
-      "type": "article",
       "id": "scarisoara",
       "title": "<br><i class='fas fa-mountain'></i> Unul din cele mai mari ghețare subterane",
       "text": "<b>Ghețarul Scărișoara</b> este unul din cele mai mari ghețare subteran din lume aflat în inima Apusenilor și primul obiectiv declarat monument al naturii din România. Se află la o oră de mers cu mașina de noi sau 4h cu bicicleta.<br><br>",
@@ -356,7 +292,7 @@
     {
       "type": "article",
       "id": "pisoaia",
-      "title": "<br><i class=\"fas fa-water\"></i> Un loc unic în Apuseni, Cascada Pișoaia",
+      "title": "Vizitează Cascada Pișoaia",
       "text": "Cascada Pisoaia este o splendida cadere de apa de peste 18 metri inaltime. Chiar lângă este Dealul cu melci un loc unde se pot vedea specii de moluște încrustate în piatră ce au trăit cu milioane de ani în urmă pe fundul mării. Obiectivele se află la 30min de mers cu mașina de noi sau 2h cu bicicleta.<br><br>",
       "buttons": [],
       "media": ""
@@ -432,54 +368,6 @@
       "text": "",
       "buttons": [],
       "media": "https://lh3.googleusercontent.com/yNApyZfCfwxgfrHxLPJADzJWW8T6iy5jzlMBQalPH3RuiucTWGzkbFdHHcVX9G6ZCNmI4Rrag9_caDOlyOeCKfLCZCLIJKDsCZIt5OFPCHQDOHHKrUqj_Jl7DbsC7RnT02ivYI78WGTf9sfsjHBSw_H9Kv4Ym3lu5eY2zas7yhOGWlGT_0dnqW8dt8KZXCulaoYtKtY308Z6CTkqjC6y2ty26CbGdJ86_snBVnkGqZXdRpv9hOB0S_5gxM7ZuVBTMjjTcfPGznpZw8bIW5RiyUXVj0z7aneRjgDYuELugUaFrJyFbf4PACbgOH7MrobXHi5j6xFaIAxW_JH7mSPyNVlhsuWEnbv92A6-NUn2HKGokuKScvE064RukF_JEqhAjZEmbbmGBBliJHrolAju8Njly9c6pHtDN76mjyWUayQtGzlRaWV9i81gSeDf6_NiH-CaHPQL99XeWny9PXHrNc6V3N8OIo8lJPZA8LUdkZaBnrpbnWhBA3vq8MJhoHKvcsthowquzQ6Dw306uQP_h0vLH5iNgCgWMIfgX5Nh7tGdOy78VTlhxP6nrYTy5oAY4PYThvzUtaVM8QPHPmrHuxfw91_fx5lEDeBsHqto7l7fwcKRmCi2mAF9cvv3a0iJYgtVPGb4CcvCXmJLMQdE8TFp0JjyDw9t0JHbesCyRoT2kYnu4GfhXA=w1500-h997-no"
-    },
-    {
-      "type": "article",
-      "id": "guidedTour",
-      "title": "<br><i class='fas fa-hiking'></i> Oferim tururi ghidate",
-      "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid local deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi atracțiile descrise pe această pagină (centrul istoric, povestea aurului și mineritul, zona propusă ca sit UNESCO, tăuri, galerii sau obiective naturale). Specifică la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a> dacă dorești să-ți organizăm pe perioada șederii un tur ghidat și spune-ne ce zone te interesează, iar apoi te vom contacta pentru a stabili toate detaliile. <br><br>",
-      "buttons": [],
-      "media": ""
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/7cQGigOihtPeDlZVZPgcc7ZZp6zhMX9RgoSScj-xtN6VoOKZfH8TIOFuKNbzp4gRDXc8R8ngyCdzAWT3c2qSWFvHOuic1mBFbpWVQpa9dKUUvAsaCVHicvQWXd5sChXFWFqdW4H2GS3cifErF-qRyp9pD0cswiIIdkwXdba-evSWgy56xazqRJEvPI7W2UZ2BjpcieDqkxe3MwoEz9eSWCBIco6yRsazY60YgxEW-6YYbljdmqXqP7T8q4zHs9eyEPPR1B4Xc5kTkMi5yvSKop3ntHtQKUVQNuL5E_laoUwkZGp5zfYh5spYjrCVTG89haNAcahnp8VQYJp0w7gK4-SBgS2N2-i_YoDklLmvzbH6E-50wBvYuV7EFs_hpYBfdUcmyG8Y-zcRciw47H0-DgAM3So52xfkSjngt80pL41BERwVA0ulHP_D00zY6c-cHgrFxtnovZWdIUahno7IGDHmlqFYdXJyfR6TW6g9YOT2gNdgm_Bkn8Y0MS-reXn9aNqA_ZjwbgRtjJ41ESESgDOdxMNaH-Akk55B7HN7Ip-5HTAcXK2o-5bDEtXDMP8zgJf2Xlt5Ebg6eGPiDzLZPe8HssRDjJFpzfz7NAJ1LkLxvmTFJqHdFEcQUuaCnKBoBGa_R8Wuecntr7-ejJKcvAqAo6RaQcG-Y9gR2Q-qLwlAO34SEQDh7gi-wmMLEoxeed6nRUVu-kDP5zOC-FFR3PIATr_-0X7ShxWI3YBrlSmR4rHe=w839-h558-no"
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/Z6u1VV5lGkHyRMji_kkHbcwO-QqenzXVlc9AWPfSBmSww-_KE9Ni8LTj_7uDy26XPLA8KeH-MQqdo96WzjTSAI9qUT_4ECDRwyabn6c1VReIn9_xwCWRxZmfkfIY7G5sfH-mOztl5i-wnjpm2WUVs-wtE7yDvW12GZVx7pMLPUErfAote_X2nvOfRfIzYHGNWF1UioaIz2u1OrBn82DvJK_JsMfsVDLwJ0I6YTghKhN-glezaR-KqvTTKU6HzQMS_A44xLunLhWrVey9PyQQnFziW9nog2S37rpWr47pswNsEO5CbQTp3y8XGm_C4fLI-FQ1ylAKtpGwDFErL4V1JYtD-W9FOlxJPe7CiX2Uv5Xr-USGSZ4DikUNqW6N_J-p1r3HSJgtE0qpUOshhvO9CvLDF3_WEQSW5-rZKP6xKoAtidSHnxkMVD56qlJo9KOTR35O7qqJb3VwwaTIK-eld4YxMY3gpMAWt8xKcxKKRGAz6-ms3Lniq1v1zTsggYs0Bs25vxMWq1zfc2JV4OeBXKl0ZFBUooKvjDCw-lVXo_u34FKTrRfWl4u3dSwn_R5p79N5XfQ7rfUHgjuG51-xLemSaziVCuynXTeLQugEwwsc3HsNnmgZeLE2jiETRpUbZwLYFGUK60gwp53_4hL_4c0603-C60zFlcOk9NyCVp8tzylcUugIWtNSTNyoIzTqBiLaVsX832ZKszMTcDpX6xVkvbr0hbKL79347SZREyrcV-Mx=w1400-h793-no"
-    },
-    {
-      "type": "article",
-      "id": "bike",
-      "title": "<br><i class='fas fa-bicycle'></i> Desoperă zona cu bicicleta",
-      "text": "Ne aflăm într-o zonă cu dealuri, văi și sate legate de drumuri de țară ideale pentru ture cu bicicleta. Dacă dorești pe perioada șederii să <b>închiriezi biciclete sau trasee ghidate pe bicicletă</b> te rugăm să specifici la efectuarea unei <a href='ro/accommodation#bookings'>rezervări</a>, iar apoi te vom contacta pentru a stabili toate detaliile. Câteva link-uri spre <b>trasee cu hărți, profil și date gps</b> pe care le poți face la noi găsești pe: <a href='https://www.bikemap.net/en/r/4121632' target='_blank'>Traseul Tăurilor - 7km</a> | <a href='https://www.bikemap.net/en/r/3594806' target='_blank'>Traseul Vârtop - 12km</a> | <a href='https://www.bikemap.net/en/r/4122612/' target='_blank'>Traseul Detunata - 20km</a> | <a href='https://www.bikemap.net/en/r/3873269' target='_blank'>Traseul Geamăna - 34km</a> | <a href='https://www.bikemap.net/en/r/3873321' target='_blank'>Traseul Negrileasa - 39km</a> <br><br>",
-      "buttons": [],
-      "media": ""
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/44nFTBOa4MmbnEdHFWF_hLvgjjgzIoAVtzWhndXOF_iRrYWyQVWqJanrOwOV9GB5Ry9UHcl7KSqG6qY31Y4fRgrpc8ON5VqY0k9xpQt5yu_Y2daut5-Dm7ONSUPtrV915g-qbPPmm3aPqw0IEJVainkDrZO5VBlLpGBA2ZhyWXwGXX8hFkZyqljKyti9O9G1Q1LQByVlQd8DV4viOkM6VkFi40AnvrSIyIg64QII5pNUSWHp7Cpjj1asbD5DArspRqrqZxPzZ2k5M4Q_moVxuXRahV-IsHOz9sBx-NNpFN0PFN2gsImsTpIrbzFwKuZ5vvyo0BY8Js2fnmp2dKt3BhfkFxsJjIPzo7huko5CqoAWLpA5T0gbNCH0oTRNszWiSj_iNewrSzlP49Gf9ZoQqY0BElsmWHlytDC7LMJbW6uf4Tpxzv_emD81beGCt1DtoK05sDc1lhw8lcRim65Z8vRTExcX1jPfSuHKAIm2dqE6Y0H2dqgRozhW6Dab5qKRKuLJVsJhNbJVtpmmqyuZLe0GKVnSOBsyHaLuw83l0nlgWgJWM7f6oKOI8sDgRz1gYa0btPZArrLZ6K2CQAgtd2AMIHyVqom0Lhsb4DdKqn7gNwtb7hmbcX4yKaXzSM2KX0EMtvnvufEFXBL3VpI9702-dYL3afR5QzyOvPojoKV7hhogl2VCbQMbaN-pjQgK74hWQLfPTEW55T-kRPwwu2MalmFdRC5iQi053jRkIifd8XMM=w839-h558-no"
-    },
-    {
-      "type": "article",
-      "id": "",
-      "title": "",
-      "text": "",
-      "buttons": [],
-      "media": "https://lh3.googleusercontent.com/NC_pp9KYuHew4cl1p4zAWnsHjdg5AdBIZIC2CyuYvMViU3HhVjVBmyRKhRdwjc7PgmuVfJMwdMOhQtMFUF6hAmUv_9gTr6JtJ3mpUkplW-UXSf_R8qoOFYhLA839rLITp_iErcRlscH5wceaYAXDipfPdvdoTo6pfug4kQVJF46lfOBlK5LyWyFMBxLNsWlhuAJmCBAW6W9f_6n0rhEOmSF-odYrOLgbi3yRBIO-UfcG3O2Qw7n4r-wLAxHktO3WYqjzqIk3FJO9uQG3WkcsMMGnKrnT922jTewFjs26OB5jT8s-WT_-uvaNPudqb1kZkh_anDBhTkQsiWV8Y7RBqhCrfvfkH5EJQtfwkOdU9uXB8V7pjgg8ouQS7KY481BOHgIadddMSPT6flnJjjtac7ZdvQOwlmCf1Oy0O64843SY6KpCHImhUJPraFV5sixYbDlSNBggKkheNjk0MZsSTOA7S1y53lg1kg3ArWJlywoyzvegwHv78hz2xt_XHy9f_U3dMLl0b0FjZ4j8Kb7Kta9wMc1wVQ85G-2lqovO5iUvfzXZKajNn7ICP0HOM5fl0Iru7asBxx5hIEtFNjF1jvPP-51EsVPRqkLnxf-6NzuBUWnQcN7joepsazyO1oWCK8KiUkGzxKlKP2xvR4WisdVqjSqoFdL54Rku7cmWTHdSkQXZnInCvdhXGylzO94OMWpM9KaEHMwR18r-Qx-p-3YR4N1R4Oo2lLs3L_oHKwrVPWmx=w840-h558-no"
     },
     {
       "type": "article",
