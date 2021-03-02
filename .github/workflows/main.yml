@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Login to DockerHub Registry
-      - run: docker-compose build website-builder-be
+        run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
-        
+
   deploy:
     needs: [build]
     name: Deploy Docker
