@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: deploy
-    runs-on: [self-hosted]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Login to DockerHub Registry
