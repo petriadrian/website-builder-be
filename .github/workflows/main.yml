@@ -1,4 +1,4 @@
-name: Auto deploy
+name: Build & deploy
 on:
   push:
     branches:
@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
       - run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
 
