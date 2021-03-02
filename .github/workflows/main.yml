@@ -14,8 +14,14 @@ jobs:
         run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
       - run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
+        
+  deploy:
+    needs: [build]
+    name: Run docker-compose up
+    runs-on: ubuntu-latest
+    steps:
       - name: Start containers
-      - uses: jderusse/ga-ssh@master
+        uses: jderusse/ga-ssh@master
         with:
           host: 167.99.196.145
           username: root
