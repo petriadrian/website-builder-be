@@ -9,16 +9,12 @@ jobs:
     name: deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - name: Login to DockerHub Registry
+      - uses: actions/checkout@v2
         run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
       - run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
         
-  deploy:
-    name: Run docker-compose up
-    runs-on: ubuntu-latest
-    steps:
       - name: Start containers
         uses: jderusse/ga-ssh@master
         with:
