@@ -6,18 +6,17 @@ on:
 
 jobs:
   build:
-    name: deploy
+    name: Build Docker
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Login to DockerHub Registry
-        run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
       - run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
         
   deploy:
     needs: [build]
-    name: Run docker-compose up
+    name: Deploy Docker
     runs-on: ubuntu-latest
     steps:
       - name: Start containers
