@@ -1,8 +1,8 @@
 package com.config.security;
 
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
@@ -13,19 +13,13 @@ import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 
-import java.util.List;
-
+import static java.util.Arrays.asList;
 import static java.util.Collections.singletonList;
 
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true, securedEnabled = true)
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
-
-    @Value("${cors.methods}")
-    private List<String> corsMethods;
-    @Value("${cors.headers}")
-    private List<String> corsHeaders;
 
     private AuthenticationFilter authenticationFilter;
 
@@ -37,7 +31,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http
                 .authorizeRequests()
-                .antMatchers("/content/load/**", "/sendEmail", "login").permitAll()
+                .antMatchers(HttpMethod.GET, "/page", "/sendEmail", "/user/login").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .addFilterBefore(authenticationFilter, UsernamePasswordAuthenticationFilter.class)
@@ -54,9 +48,11 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOrigins(singletonList("*"));
-        config.setAllowedMethods(corsMethods);
-        config.setAllowCredentials(true);
-        config.setAllowedHeaders(corsHeaders);
+        config.setAllowedMethods(asList("HEAD", "GET", "POST", "PUT", "DELETE", "PATCH"));
+//        config.setAllowCredentials(true);
+        config.setAllowedHeaders(asList("Authorization", "Cache-Control", "Content-Type", "Origin", "SESSION-ID",
+                "Content-Type", "Accept", "Access-Control-Allow-Headers", "X-Requested-With", "X-FORWARDED-FOR",
+                "Access-Control-Request-Method", "Access-Control-Request-Headers", "Access-Control-Allow-Origin"));
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config);
         return source;

@@ -1,7 +1,7 @@
 # Deploy on digital ocean server
 ```
 ssh root@167.99.196.145
-cd website-builder/website-builder-be
+cd website-template/website-template-be
 ```
 * Check if changes to content were made and add them locally
 ```
@@ -16,9 +16,9 @@ git push
 # check if any screen session open
 screen -ls
 #ATACH# to existing screen session with
-screen -xS website-builder-be
+screen -xS website-template-be
 #NEW# screen session creation
-screen -S website-builder-be
+screen -S website-template-be
 
 mvn clean install
 mvn spring-boot:run

@@ -1,9 +1,9 @@
 package com.config.security;
 
+import com.models.User;
 import lombok.Data;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
-import com.models.user.User;
 
 import java.util.Collection;
 
@@ -45,7 +45,7 @@ public class TokenAuthentication implements Authentication {
 
     @Override
     public String getName() {
-        return principal.getName();
+        return principal.getEmail();
     }
 
     public String getToken() {

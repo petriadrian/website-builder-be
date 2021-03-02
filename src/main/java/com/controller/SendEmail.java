@@ -1,8 +1,8 @@
 package com.controller;
 
-import com.models.section.form.Field;
-import com.models.section.form.Form;
-import com.models.user.User;
+import com.models.section.type.Form;
+import com.models.section.type.Form.Field;
+import com.models.User;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 import org.springframework.mail.javamail.MimeMessageHelper;
@@ -55,10 +55,10 @@ public class SendEmail {
 
     private JavaMailSender getMailSender(User user) {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        mailSender.setHost(user.getEmailServer().getHost());
-        mailSender.setPort(parseInt(user.getEmailServer().getPort()));
+//        mailSender.setHost(user.getEmailServer().getHost());
+//        mailSender.setPort(parseInt(user.getEmailServer().getPort()));
         mailSender.setUsername(user.getEmail());
-        mailSender.setPassword(user.getEmailServer().getPassword());
+//        mailSender.setPassword(user.getEmailServer().getPassword());
         mailSender.setJavaMailProperties(getMailProperties());
         return mailSender;
     }

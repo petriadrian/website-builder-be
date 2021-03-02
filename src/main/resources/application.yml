@@ -1,11 +1,13 @@
 server:
   port: 8080
 
-cors:
-  methods: GET, POST, OPTIONS, PUT, PATCH, DELETE
-  headers: Origin, Content-Type, Accept, Authorization, Access-Control-Allow-Headers, X-Requested-With, Access-Control-Request-Method, Access-Control-Request-Headers
-  
 spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+      database: websiteBuilder
+      port: 27017
+      host: ${DB}
   security:
     oauth2:
       client:
