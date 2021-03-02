@@ -24,8 +24,7 @@ jobs:
         with:
           host: 167.99.196.145
           username: root
-          key: ${{ secrets.DO_PRIVATE_KEY }}
-          run: cd ~
+          key: ${{secrets.DO_PRIVATE_KEY}}
           script: |
             docker-compose pull
             docker-compose up -d
