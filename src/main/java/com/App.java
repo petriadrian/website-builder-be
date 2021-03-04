@@ -35,10 +35,10 @@ public class App {
                         User.builder()
                                 .email("casapetrirosiamontana@gmail.com")
                                 .build()));
-        Site site = siteRepository.findByOrigin("www.casapetrirosiamontana.ro")
+        Site site = siteRepository.findByOrigin("casapetrirosiamontana.ro")
                 .orElseGet(() -> siteRepository.save(
                         Site.builder()
-                                .origin("www.casapetrirosiamontana.ro")
+                                .origin("casapetrirosiamontana.ro")
                                 .roles(List.of(Site.Role.builder()
                                         .user(user)
                                         .type(ADMIN)

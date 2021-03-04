@@ -24,8 +24,10 @@ public class Utils {
     }
 
     public static String sanitizeOrigin(String origin) {
-        return origin.replace("http://localhost:4200", "www.casapetrirosiamontana.ro")
-                .replace("localhost", "www.casapetrirosiamontana.ro");
+        return origin
+                .replace("www.", "")
+                .replace("http://localhost:4200", "casapetrirosiamontana.ro")
+                .replace("localhost", "casapetrirosiamontana.ro");
     }
 
     public static boolean isUserLoggedIn() {

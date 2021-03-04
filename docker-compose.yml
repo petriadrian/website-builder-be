@@ -16,13 +16,15 @@ services:
 
   website-builder-fe:
     image: docker.pkg.github.com/petriadrian/website-builder-fe/website-builder-fe:dev
+    #    image: website-builder-fe
     build: ./
     container_name: website-builder-fe
     ports:
-      - 80:80
-  
+      - 4000:4000
+
   website-builder-be:
     image: docker.pkg.github.com/petriadrian/website-builder-be/website-builder-be:dev
+    #    image: website-builder-be
     container_name: website-builder-be
     build: ./
     ports:
@@ -38,4 +40,3 @@ services:
     restart: unless-stopped
     ports:
       - 8081:8081
-
