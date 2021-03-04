@@ -67,8 +67,8 @@ public class PageService {
     }
 
     private String sanitizePath(String path) {
-        path = path.startsWith("/") ? path.substring(1) : path;
         path = isEmpty(path) ? "home" : path;
+        path = path.startsWith("/") ? path.substring(1) : path;
         return path;
     }
 
