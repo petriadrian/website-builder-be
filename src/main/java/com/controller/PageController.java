@@ -18,7 +18,8 @@ public class PageController {
     private SiteService siteService;
 
     @GetMapping
-    public Page get(@RequestParam(value = "path") String path, @RequestParam(value = "origin") String origin) {
+    public Page get(@RequestParam(value = "origin") String origin,
+                    @RequestParam(value = "path", required = false) String path) {
         log.debug("Page get for path: " + path + " origin " + origin);
         Site site = siteService.findOrThrow(origin);
         return pageService.findOrThrow(site, path);
