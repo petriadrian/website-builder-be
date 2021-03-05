@@ -28,6 +28,7 @@ import static java.util.Collections.singletonList;
 import static org.apache.logging.log4j.util.Strings.isNotBlank;
 
 @Component
+@Slf4j
 public class AuthenticationFilter extends OncePerRequestFilter {
 
     @Value("${spring.security.oauth2.client.registration.google.client-id}")
@@ -46,6 +47,7 @@ public class AuthenticationFilter extends OncePerRequestFilter {
         try {
             String authToken = request.getHeader(HttpHeaders.AUTHORIZATION);
             String origin = request.getParameter("origin");
+            log.info("New request for origin: " + origin + " path " + request.getParameter("path"));
             if (isNotBlank(authToken)) {
                 GoogleIdToken idToken = new GoogleIdTokenVerifier
                         .Builder(new NetHttpTransport(), JacksonFactory.getDefaultInstance())
