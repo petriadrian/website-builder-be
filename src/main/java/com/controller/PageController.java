@@ -20,7 +20,7 @@ public class PageController {
     @GetMapping
     public Page get(@RequestParam(value = "origin") String origin,
                     @RequestParam(value = "path", required = false) String path) {
-        log.debug("Page get for path: " + path + " origin " + origin);
+        log.info("Page get for path: " + path + " origin " + origin);
         Site site = siteService.findOrThrow(origin);
         return pageService.findOrThrow(site, path);
     }
