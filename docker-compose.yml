@@ -16,19 +16,19 @@ services:
 
   website-builder-fe:
     image: docker.pkg.github.com/petriadrian/website-builder-fe/website-builder-fe:dev
-    #    image: website-builder-fe
+#    image: website-builder-fe
     build: ./
     container_name: website-builder-fe
     ports:
-      - 4000:4000
+      - 9000:9000
 
   website-builder-be:
     image: docker.pkg.github.com/petriadrian/website-builder-be/website-builder-be:dev
-    #    image: website-builder-be
+#    image: website-builder-be
     container_name: website-builder-be
     build: ./
     ports:
-      - 8080:8080
+      - 8443:8443
     environment:
       - DB=mongo
       - SPRING_PROFILES_ACTIVE=prod
