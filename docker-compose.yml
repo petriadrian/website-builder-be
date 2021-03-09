@@ -27,6 +27,8 @@ services:
 #    image: website-builder-be
     container_name: website-builder-be
     build: ./
+    volumes:
+      - /etc/letsencrypt/live/casapetrirosiamontana.ro:/etc/letsencrypt/live/casapetrirosiamontana.ro
     ports:
       - 8443:8443
     environment:

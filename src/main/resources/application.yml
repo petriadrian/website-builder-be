@@ -27,4 +27,5 @@ server:
     keyStoreType: PKCS12
     keyAlias: tomcat
     enabled: true
+    key-store-password: 099099
 security.require-ssl=true:
