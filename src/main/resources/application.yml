@@ -25,6 +25,6 @@ server:
   ssl:
     key-store: /etc/letsencrypt/live/casapetrirosiamontana.ro/keystore.p12
     keyStoreType: PKCS12
-    keyAlias: websitebuilder
+    keyAlias: tomcat
     enabled: true
 security.require-ssl=true:
