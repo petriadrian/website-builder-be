@@ -9,7 +9,7 @@ FROM openjdk:14-oracle
 
 ENV DB=mongo
 
-EXPOSE 8080
+EXPOSE 8443
 
 WORKDIR /app
 
