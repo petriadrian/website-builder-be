@@ -1,5 +1,5 @@
 provision:
-	scp ./docker-compose.yml TOKEN.txt digital-ocean-petri:~/
+	scp ./docker-compose.yml TOKEN.txt digital-ocean-petri:~
 
 login:
 	cat ./TOKEN.txt | docker login https://docker.pkg.github.com -u petriadrian --password-stdin

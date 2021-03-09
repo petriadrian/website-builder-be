@@ -15,3 +15,16 @@ spring:
           google:
             client-id: 398995048068-1fgqjmaom4n81bubchs794fn6m9eo6vs.apps.googleusercontent.com
             client-secret: h9fEm0ZBcAjJdXo_e97G3Vee
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+server:
+  port: 8443
+  ssl:
+    key-store: /etc/letsencrypt/live/casapetrirosiamontana.ro/keystore.p12
+    keyStoreType: PKCS12
+    keyAlias: websitebuilder
+    enabled: true
+security.require-ssl=true:
