@@ -12,9 +12,9 @@ services:
     ports:
       - 27017:27017
     volumes:
-      - ~/.docker/mongodb/data/db:/data/db
-      - ~/.docker/mongodb/data/log/:/var/log/mongodb/
-      - ~/.docker/mongodb/mongod.conf:/etc/mongod.conf
+      - ~/data/db:/data/db
+      - ~/data/log/:/var/log/mongodb/
+      - ~/mongod.conf:/etc/mongod.conf
     command: ["-f", "/etc/mongod.conf"]
 
   website-builder-fe:

@@ -7,9 +7,9 @@ RUN ["mvn", "package", "-DskipTests"]
 
 FROM openjdk:14-oracle
 
-ENV DB=mongo
+ENV DB=mongodb
 
-EXPOSE 8443
+EXPOSE 8080
 
 WORKDIR /app
 

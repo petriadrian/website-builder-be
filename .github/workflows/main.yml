@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd ~/.docker
       - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
       - run: docker-compose build website-builder-be
       - run: docker-compose push website-builder-be
@@ -27,7 +26,6 @@ jobs:
           username: root
           private_key: ${{secrets.DO_PRIVATE_KEY}}
           script: |
-            cd ~/.docker
             #  echo 45192e2f6829c5cee67369c239810161975fab16 | docker login docker.pkg.github.com -u petriadrian --password-stdin
             echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u ${{ github.repository }} --password-stdin
             docker-compose pull
